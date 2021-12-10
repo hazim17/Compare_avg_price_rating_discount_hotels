@@ -1,0 +1,986 @@
+name_hotel,location_hotel,Free_Wifi_hotel,rating_hotel_num,rating_hotel_text,rating_hotel_qty,normal_price_hotel,discount_hotel,discount_price_hotel,reward_point_hotel,room,date,city
+Maple Hotel Grogol,Jakarta Barat,Free Wifi,8.4,Luar Biasa,124,708000.0,31,292800.0,234,1,2021-08-12,Jakarta
+Juno Jatinegara,Jakarta Timur,Free Wifi,8.8,Luar Biasa,55,500000.0,26,259622.0,207,1,2021-08-12,Jakarta
+Oakwood PIK,Jakarta Utara,Free Wifi,8.7,Luar Biasa,6,2000000.0,16,1344000.0,1075,1,2021-08-12,Jakarta
+N2 Hotel Gunung Sahari,Jakarta Pusat,Free Wifi,8.0,Sangat Baik,38,374692.0,35,146130.0,116,1,2021-08-12,Jakarta
+Kimaya Slipi,Jakarta Barat,Free Wifi,8.4,Luar Biasa,0,474998.0,5,383562.0,306,1,2021-08-12,Jakarta
+Asyana Kemayoran,Jakarta Pusat,Free Wifi,8.6,Luar Biasa,16,832123.0,35,324528.0,259,1,2021-08-12,Jakarta
+W Home Express Tebet,Jakarta Selatan,Free Wifi,8.7,Luar Biasa,8,284030.0,5,202372.0,161,1,2021-08-12,Jakarta
+Grand Whiz Poins Simatupang,Jakarta Selatan,Free Wifi,8.9,Luar Biasa,226,850000.0,25,512131.0,409,1,2021-08-12,Jakarta
+Verse Luxe Hotel Wahid Hasyim,Jakarta Pusat,Free Wifi,8.6,Luar Biasa,54,1559455.0,5,1037038.0,829,1,2021-08-12,Jakarta
+Whiz Hotel Cikini,Jakarta Pusat,Free Wifi,8.2,Luar Biasa,110,600000.0,34,317200.0,253,1,2021-08-12,Jakarta
+Hotel Horison Ciledug,Jakarta Selatan,Free Wifi,9.4,Istimewa,147,778947.0,5,555000.0,444,1,2021-08-12,Jakarta
+Infiniti Hotel,Jakarta Barat,Free Wifi,8.9,Luar Biasa,18,430510.0,35,176294.0,141,1,2021-08-12,Jakarta
+Kyriad Hotel Metro Kebayoran,Jakarta Selatan,Free Wifi,8.8,Luar Biasa,173,683761.0,35,444445.0,355,1,2021-08-12,Jakarta
+Teraskita Hotel,Jakarta Timur,Free Wifi,9.1,Istimewa,96,831027.0,5,552633.0,442,1,2021-08-12,Jakarta
+Oak Tree Urban Hotel,Jakarta Selatan,Free Wifi,7.7,Sangat Baik,41,740827.0,5,492650.0,394,1,2021-08-12,Jakarta
+Cabin Hotel,Jakarta Utara,Free Wifi,8.5,Luar Biasa,1053,593820.0,35,385983.0,308,1,2021-08-12,Jakarta
+Sans Hotel Roxy,Jakarta Pusat,Free Wifi,9.6,Istimewa,13,534858.0,5,279464.0,223,1,2021-08-12,Jakarta
+Samala Hotel,Jakarta Barat,Free Wifi,8.8,Luar Biasa,66,1000000.0,35,377000.0,301,1,2021-08-12,Jakarta
+"The Gloria Suites Grogol,",Jakarta Barat,Free Wifi,8.0,Sangat Baik,330,800000.0,25,358800.0,287,1,2021-08-12,Jakarta
+Puri Mega Hotel,Jakarta Timur,Free Wifi,8.2,Luar Biasa,146,500000.0,27,258440.0,206,1,2021-08-12,Jakarta
+Whiz Prime Hotel Kelapa Gading,Jakarta Utara,Free Wifi,8.5,Luar Biasa,361,778496.0,35,404818.0,323,1,2021-08-12,Jakarta
+Red Planet,Jakarta Pusat,Free Wifi,8.6,Luar Biasa,1021,410526.0,5,234000.0,187,1,2021-08-12,Jakarta
+Hotel Bulevar Tanjung Duren,Jakarta Barat,No,7.2,Sangat Baik,82,421052.0,5,260000.0,208,1,2021-08-12,Jakarta
+d'primahotel ITC Mangga Dua,Jakarta Pusat,Free Wifi,8.5,Luar Biasa,33,400000.0,23,263500.0,210,1,2021-08-12,Jakarta
+Sentral Cawang Hotel,Jakarta Timur,Free Wifi,9.1,Istimewa,8,500000.0,24,381828.0,305,1,2021-08-12,Jakarta
+Whiz Hotel Falatehan,Jakarta Selatan,Free Wifi,8.6,Luar Biasa,62,461538.0,35,240000.0,192,1,2021-08-12,Jakarta
+POP! Hotel Tebet,Jakarta Selatan,Free Wifi,8.6,Luar Biasa,312,398000.0,5,283575.0,226,1,2021-08-12,Jakarta
+d'primahotel Melawai,Jakarta Selatan,Free Wifi,9.0,Luar Biasa,32,520000.0,34,292296.0,233,1,2021-08-12,Jakarta
+De Green Inn Kebon Jeruk,Jakarta Barat,No,7.5,Sangat Baik,5,500000.0,34,214500.0,171,1,2021-08-12,Jakarta
+Social Hub by TwoSpaces,Jakarta Barat,Free Wifi,9.8,Istimewa,13,141275.0,5,114080.0,91,1,2021-08-12,Jakarta
+Nite & Day,Jakarta Barat,Free Wifi,8.4,Luar Biasa,66,461538.0,35,207000.0,165,1,2021-08-12,Jakarta
+LeGreen Suite Kuningan,Jakarta Selatan,Free Wifi,8.0,Sangat Baik,110,511578.0,5,243000.0,194,1,2021-08-12,Jakarta
+Golden Mansion Kost,Jakarta Selatan,Free Wifi,8.3,Luar Biasa,11,325000.0,23,175000.0,140,1,2021-08-12,Jakarta
+Wisma Rembulan,Jakarta Selatan,Free Wifi,8.2,Luar Biasa,16,289473.0,5,137500.0,110,1,2021-08-12,Jakarta
+Mahakam24 Residence,Jakarta Selatan,Free Wifi,8.0,Sangat Baik,5,575000.0,34,247000.0,197,1,2021-08-12,Jakarta
+Tamansari Agung Residence,Jakarta Barat,Free Wifi,7.6,Sangat Baik,27,307692.0,35,120000.0,96,1,2021-08-12,Jakarta
+Horison Falatehan -,Jakarta Selatan,Free Wifi,8.2,Luar Biasa,40,266666.0,5,190000.0,152,1,2021-08-12,Jakarta
+BI Executive Hotel,Jakarta Utara,Free Wifi,9.5,Istimewa,73,780000.0,23,420000.0,336,1,2021-08-12,Jakarta
+K-Style Eco Hotel,Jakarta Pusat,Free Wifi,8.1,Luar Biasa,19,410343.0,35,173370.0,138,1,2021-08-12,Jakarta
+RedDoorz Plus near Blok M Square,Jakarta Selatan,Free Wifi,9.1,Istimewa,32,383665.0,5,200465.0,160,1,2021-08-12,Jakarta
+De Green Residence,Jakarta Barat,Free Wifi,7.9,Sangat Baik,17,400000.0,31,178750.0,143,1,2021-08-12,Jakarta
+LeGreen Suite Penjernihan,Jakarta Pusat,Free Wifi,8.1,Luar Biasa,55,600000.0,10,324000.0,259,1,2021-08-12,Jakarta
+N1 Hotel Tanah Abang,Jakarta Pusat,Free Wifi,7.2,Sangat Baik,22,553846.0,35,165600.0,132,1,2021-08-12,Jakarta
+Residence T63,Jakarta Barat,Free Wifi,8.0,Sangat Baik,29,231578.0,5,110000.0,88,1,2021-08-12,Jakarta
+Wisma Mandala,Jakarta Barat,Free Wifi,6.8,Baik,8,315789.0,5,90000.0,72,1,2021-08-12,Jakarta
+Verse Lite Hotel Gajah Mada,Jakarta Pusat,Free Wifi,8.5,Luar Biasa,97,652278.0,5,371799.0,297,1,2021-08-12,Jakarta
+Vayassi House Syariah,Jakarta Selatan,Free Wifi,9.6,Istimewa,4,423923.0,35,165330.0,132,1,2021-08-12,Jakarta
+N Hotel Harmoni,Jakarta Pusat,Free Wifi,8.4,Luar Biasa,24,350000.0,21,159500.0,127,1,2021-08-12,Jakarta
+Nusalink Near Trisakti 1,Jakarta Barat,Free Wifi,7.2,Sangat Baik,8,231578.0,5,110000.0,88,1,2021-08-12,Jakarta
+Hotel Bintang Baru,Jakarta Pusat,Free Wifi,8.4,Luar Biasa,0,305263.0,5,290000.0,232,1,2021-08-12,Jakarta
+LeGreen Suite Supomo,Jakarta Selatan,Free Wifi,8.4,Luar Biasa,52,463157.0,5,218240.0,174,1,2021-08-12,Jakarta
+Zuri Express Mangga Dua,Jakarta Pusat,Free Wifi,8.6,Luar Biasa,113,860188.0,5,612884.0,490,1,2021-08-12,Jakarta
+OYO 90244 Hotel Antara,Jakarta Pusat,Free Wifi,6.6,Baik,5,294173.0,5,217983.0,174,1,2021-08-12,Jakarta
+Liberty Hotel Thamrin,Jakarta Pusat,Free Wifi,9.3,Istimewa,19,763157.0,5,543750.0,435,1,2021-08-12,Jakarta
+Namora Residence by Ruang Nyaman,Jakarta Timur,Free Wifi,6.4,Luar Biasa,6,423070.0,5,241150.0,192,1,2021-08-12,Jakarta
+Puri Jaya Hotel,Jakarta Pusat,Free Wifi,8.0,Sangat Baik,262,461538.0,35,249000.0,199,1,2021-08-12,Jakarta
+Horison Suite & Residences Rasuna,Jakarta Selatan,Free Wifi,8.4,Luar Biasa,0,916084.0,5,652710.0,522,1,2021-08-12,Jakarta
+d'primahotel WTC Mangga Dua,Jakarta Utara,Free Wifi,8.9,Luar Biasa,66,470000.0,21,314500.0,251,1,2021-08-12,Jakarta
+Graha Kasih,Jakarta Barat,Free Wifi,5.3,Luar Biasa,5,310000.0,5,117800.0,94,1,2021-08-12,Jakarta
+Yellow Bee Tanah Abang,Jakarta Pusat,Free Wifi,7.0,Baik,4,278641.0,5,185296.0,148,1,2021-08-12,Jakarta
+LeGreen Home Setiabudi,Jakarta Selatan,Free Wifi,7.9,Sangat Baik,108,500000.0,10,223200.0,178,1,2021-08-12,Jakarta
+RedDoorz near Transmart Kalimalang,Jakarta Timur,Free Wifi,8.4,Luar Biasa,0,273684.0,5,247000.0,197,1,2021-08-12,Jakarta
+Plaza 68 Residence,Jakarta Selatan,Free Wifi,8.7,Luar Biasa,6,495000.0,35,225225.0,180,1,2021-08-12,Jakarta
+The Kartini 8 Residence Mangga Besar,Jakarta Pusat,Free Wifi,7.9,Sangat Baik,3,338000.0,12,178800.0,143,1,2021-08-12,Jakarta
+Nusalink Near Tanah Abang Eco 1,Jakarta Pusat,Free Wifi,8.6,Luar Biasa,3,365538.0,35,130680.0,104,1,2021-08-12,Jakarta
+Bobobox Pods Kota Tua,Jakarta Barat,Free Wifi,9.2,Istimewa,4,184863.0,5,131715.0,105,1,2021-08-12,Jakarta
+Kamargue Residence,Jakarta Pusat,Free Wifi,6.9,Baik,20,268421.0,5,137700.0,110,1,2021-08-12,Jakarta
+Collection O 38 Grand Palace 2,Jakarta Pusat,Free Wifi,8.4,Luar Biasa,0,705301.0,5,522628.0,418,1,2021-08-12,Jakarta
+LeGreen Suite Tondano,Jakarta Pusat,Free Wifi,7.7,Sangat Baik,59,631578.0,5,360000.0,288,1,2021-08-12,Jakarta
+Anggrek Residence,Jakarta Selatan,Free Wifi,6.2,Luar Biasa,6,249811.0,5,166125.0,132,1,2021-08-12,Jakarta
+De 80's Genteng Ijo,Jakarta Selatan,Free Wifi,7.6,Sangat Baik,1,487384.0,35,190080.0,152,1,2021-08-12,Jakarta
+City Icon Residence,Jakarta Pusat,Free Wifi,7.3,Sangat Baik,52,319869.0,5,188403.0,150,1,2021-08-12,Jakarta
+LeGreen Suite Pejompongan,Jakarta Pusat,Free Wifi,7.6,Sangat Baik,46,500000.0,11,220720.0,176,1,2021-08-12,Jakarta
+Kemang Eleven,Jakarta Selatan,Free Wifi,7.8,Sangat Baik,2,361263.0,5,257400.0,205,1,2021-08-12,Jakarta
+Nusalink Near Kebayoran Lama,Jakarta Selatan,Free Wifi,8.4,Luar Biasa,0,284210.0,5,148500.0,118,1,2021-08-12,Jakarta
+LeGreen Suite Poso,Jakarta Pusat,Free Wifi,7.8,Sangat Baik,65,673684.0,5,384000.0,307,1,2021-08-12,Jakarta
+LeGreen Suite Gatot Subroto,Jakarta Pusat,Free Wifi,8.3,Luar Biasa,68,500000.0,12,218240.0,174,1,2021-08-12,Jakarta
+Saffron Suites Syariah,Jakarta Selatan,Free Wifi,9.5,Istimewa,18,222589.0,5,211460.0,169,1,2021-08-12,Jakarta
+Kejora Homestay,Jakarta Utara,Free Wifi,9.4,Istimewa,2,346153.0,35,180000.0,144,1,2021-08-12,Jakarta
+LeGreen Home Tebet,Jakarta Selatan,Free Wifi,7.2,Sangat Baik,71,600000.0,10,324000.0,259,1,2021-08-12,Jakarta
+Goodrich Suites by Artotel,Jakarta Selatan,Free Wifi,6.3,Luar Biasa,6,2368421.0,5,1687500.0,1350,1,2021-08-12,Jakarta
+Cordela Senen,Jakarta Pusat,No,8.9,Luar Biasa,135,347368.0,5,330000.0,264,1,2021-08-12,Jakarta
+LeGreen Suite Senayan,Jakarta Pusat,Free Wifi,7.9,Sangat Baik,106,500000.0,12,218240.0,174,1,2021-08-12,Jakarta
+Nusalink Puri Maju Near Jelambar,Jakarta Barat,Free Wifi,8.0,Sangat Baik,1,472000.0,5,246620.0,197,1,2021-08-12,Jakarta
+Nusalink AMS Near Mangga Besar,Jakarta Barat,Free Wifi,8.4,Luar Biasa,0,350526.0,5,183150.0,146,1,2021-08-12,Jakarta
+Wonderloft Hostel,Jakarta Barat,Free Wifi,8.4,Luar Biasa,5,333473.0,5,228096.0,182,1,2021-08-12,Jakarta
+Nusalink Elani Syariah Near Senen,Jakarta Pusat,Free Wifi,8.4,Luar Biasa,0,420000.0,5,219450.0,175,1,2021-08-12,Jakarta
+NYENYAK MRT Lebak Bulus I Simatupang,Jakarta Selatan,Free Wifi,9.8,Istimewa,12,221052.0,5,210000.0,168,1,2021-08-12,Jakarta
+Apartment Bassura City by Travelibu,Jakarta Timur,Free Wifi,8.4,Luar Biasa,0,361714.0,5,240540.0,192,1,2021-08-12,Jakarta
+KLINPOD Hotel,Jakarta Barat,Free Wifi,8.4,Luar Biasa,0,271393.0,5,193368.0,154,1,2021-08-12,Jakarta
+Kyriad Hotel Fatmawati,Jakarta Selatan,Free Wifi,9.2,Istimewa,35,646324.0,35,336089.0,268,1,2021-08-12,Jakarta
+RedDoorz Plus near Plaza Blok M,Jakarta Selatan,Free Wifi,8.8,Luar Biasa,15,259736.0,5,222075.0,177,1,2021-08-12,Jakarta
+Green Bamboo Residence,Jakarta Selatan,Free Wifi,7.9,Sangat Baik,255,232973.0,5,221325.0,177,1,2021-08-12,Jakarta
+Arthama Hotel Wahid Hasyim,Jakarta Pusat,Free Wifi,8.6,Luar Biasa,32,600000.0,7,459200.0,367,1,2021-08-12,Jakarta
+Park 5 Simatupang,Jakarta Selatan,Free Wifi,9.2,Istimewa,465,700000.0,30,490900.0,392,1,2021-08-12,Jakarta
+Hotel 55 International,Jakarta Barat,Free Wifi,8.0,Sangat Baik,253,188421.0,5,179000.0,143,1,2021-08-12,Jakarta
+RedDoorz Plus near RSCM,Jakarta Pusat,Free Wifi,8.0,Sangat Baik,15,296421.0,5,154880.0,123,1,2021-08-12,Jakarta
+Hotel Belvena,Jakarta Barat,Free Wifi,6.9,Baik,40,136315.0,5,129500.0,103,1,2021-08-12,Jakarta
+Feodora Hotel Grogol,Jakarta Barat,Free Wifi,7.7,Sangat Baik,87,256475.0,5,243652.0,194,1,2021-08-12,Jakarta
+RedDoorz Plus @ Jalan Pemuda,Jakarta Timur,Free Wifi,7.8,Sangat Baik,72,366105.0,5,191290.0,153,1,2021-08-12,Jakarta
+Penthouse Hotel,Jakarta Barat,Free Wifi,8.4,Luar Biasa,6,147368.0,5,140000.0,112,1,2021-08-12,Jakarta
+Rumanami Residence,Jakarta Selatan,Free Wifi,9.4,Istimewa,58,600000.0,33,405000.0,324,1,2021-08-12,Jakarta
+Fieris Hotel,Jakarta Timur,Free Wifi,10.0,Istimewa,1,552631.0,5,525000.0,420,1,2021-08-12,Jakarta
+Titi Guest House,Jakarta Barat,Free Wifi,9.0,Luar Biasa,7,157894.0,5,150000.0,120,1,2021-08-12,Jakarta
+RedDoorz near RS Husada,Jakarta Pusat,Free Wifi,7.1,Sangat Baik,21,233525.0,5,122017.0,97,1,2021-08-12,Jakarta
+Flamboyan Residence,Jakarta Selatan,Free Wifi,8.0,Sangat Baik,4,400000.0,35,260000.0,208,1,2021-08-12,Jakarta
+RedDoorz near Central Park Mall,Jakarta Barat,Free Wifi,9.2,Istimewa,7,253412.0,5,132408.0,105,1,2021-08-12,Jakarta
+Hotel Rivoli Senen,Jakarta Pusat,Free Wifi,8.5,Luar Biasa,146,463128.0,5,360777.0,288,1,2021-08-12,Jakarta
+OYO 115 Portal Residence,Jakarta Barat,Free Wifi,9.1,Istimewa,12,227366.0,5,215998.0,172,1,2021-08-12,Jakarta
+RedDoorz Plus @ TB Simatupang,Jakarta Selatan,Free Wifi,8.6,Luar Biasa,26,540947.0,5,436815.0,349,1,2021-08-12,Jakarta
+OYO 3300 Nadjara Residence Syariah,Jakarta Selatan,Free Wifi,5.1,Luar Biasa,5,188195.0,5,139453.0,111,1,2021-08-12,Jakarta
+RedDoorz near Kebayoran Baru Blok S,Jakarta Selatan,Free Wifi,7.4,Sangat Baik,2,315789.0,5,300000.0,240,1,2021-08-12,Jakarta
+Picasso Style,Jakarta Barat,Free Wifi,9.6,Istimewa,4,555789.0,5,528000.0,422,1,2021-08-12,Jakarta
+favehotel Melawai,Jakarta Selatan,Free Wifi,8.4,Luar Biasa,239,664615.0,35,432000.0,345,1,2021-08-12,Jakarta
+RedDoorz @ Panglima Polim 2,Jakarta Selatan,Free Wifi,7.2,Sangat Baik,2,316000.0,5,279186.0,223,1,2021-08-12,Jakarta
+OYO Townhouse 1 Hotel Salemba Near RS PGI Cikini,Jakarta Pusat,Free Wifi,7.7,Sangat Baik,20,344991.0,5,255639.0,204,1,2021-08-12,Jakarta
+Bobobox Pods Pancoran,Jakarta Selatan,Free Wifi,9.4,Istimewa,8,226336.0,5,215020.0,172,1,2021-08-12,Jakarta
+RedDoorz near Pasar Baru 3,Jakarta Pusat,Free Wifi,7.7,Sangat Baik,10,322105.0,5,168300.0,134,1,2021-08-12,Jakarta
+RedDoorz Plus near Dunia Fantasi Ancol,Jakarta Utara,Free Wifi,9.3,Istimewa,12,359100.0,5,341145.0,272,1,2021-08-12,Jakarta
+Cool Living,Jakarta Pusat,Free Wifi,9.2,Istimewa,9,382816.0,5,363676.0,290,1,2021-08-12,Jakarta
+RedDoorz Plus near Ancol,Jakarta Utara,Free Wifi,9.4,Istimewa,39,470250.0,5,245706.0,196,1,2021-08-12,Jakarta
+RedDoorz Plus near GBK Senayan,Jakarta Barat,Free Wifi,9.4,Istimewa,18,303947.0,5,288750.0,231,1,2021-08-12,Jakarta
+Residence 100,Jakarta Pusat,Free Wifi,7.7,Sangat Baik,25,225000.0,31,155000.0,124,1,2021-08-12,Jakarta
+Bobobox Pods Kebayoran Baru,Jakarta Selatan,Free Wifi,9.6,Istimewa,7,320000.0,32,218450.0,174,1,2021-08-12,Jakarta
+Bale Resident,Jakarta Selatan,Free Wifi,7.7,Sangat Baik,3,450000.0,16,209000.0,167,1,2021-08-12,Jakarta
+The Kuningan Suites,Jakarta Selatan,Free Wifi,8.5,Luar Biasa,6,3035000.0,34,1400000.0,1120,1,2021-08-12,Jakarta
+Ra Premiere Simatupang,Jakarta Selatan,Free Wifi,9.2,Istimewa,18,1025615.0,35,666650.0,533,1,2021-08-12,Jakarta
+RedDoorz near Binus Anggrek 2,Jakarta Barat,Free Wifi,9.6,Istimewa,2,227368.0,5,216000.0,172,1,2021-08-12,Jakarta
+RedDoorz Plus near Lippo Mall Kemang 2,Jakarta Selatan,Free Wifi,8.9,Luar Biasa,6,356863.0,5,322069.0,257,1,2021-08-12,Jakarta
+RedDoorz near Hayam Wuruk,Jakarta Barat,Free Wifi,6.2,Luar Biasa,6,186157.0,5,176850.0,141,1,2021-08-12,Jakarta
+RedDoorz near Tarumanagara University,Jakarta Barat,Free Wifi,8.3,Luar Biasa,9,287368.0,5,150150.0,120,1,2021-08-12,Jakarta
+RedDoorz Plus near Senen,Jakarta Pusat,Free Wifi,5.9,Luar Biasa,5,245737.0,5,128398.0,102,1,2021-08-12,Jakarta
+RedDoorz Plus near Radio Dalam 3,Jakarta Selatan,Free Wifi,7.4,Sangat Baik,9,265473.0,5,221936.0,177,1,2021-08-12,Jakarta
+RedDoorz Plus @ Cideng Barat,Jakarta Pusat,Free Wifi,8.9,Luar Biasa,225,353225.0,5,184560.0,147,1,2021-08-12,Jakarta
+Smart Hotel Thamrin,Jakarta Pusat,Free Wifi,6.8,Baik,135,395384.0,35,239010.0,191,1,2021-08-12,Jakarta
+Capital O 203 Prasada Mansion Sudirman,Jakarta Selatan,Free Wifi,8.4,Luar Biasa,6,362049.0,5,268279.0,214,1,2021-08-12,Jakarta
+Apartemen Bassura City by Aparian,Jakarta Timur,Free Wifi,8.6,Luar Biasa,123,379473.0,5,360500.0,288,1,2021-08-12,Jakarta
+Coin's Hotel,Jakarta Utara,Free Wifi,9.0,Luar Biasa,42,473264.0,5,332705.0,266,1,2021-08-12,Jakarta
+RedDoorz Plus @ Grogol,Jakarta Barat,Free Wifi,9.6,Istimewa,2,288177.0,5,150573.0,120,1,2021-08-12,Jakarta
+RedDoorz near Plaza Atrium Senen,Jakarta Pusat,Free Wifi,9.5,Istimewa,11,455258.0,5,237873.0,190,1,2021-08-12,Jakarta
+Kantos Guest House,Jakarta Pusat,Free Wifi,9.0,Luar Biasa,93,269076.0,35,174900.0,139,1,2021-08-12,Jakarta
+Sans Hotel Fiducia Pondok Gede,Jakarta Timur,Free Wifi,6.1,Luar Biasa,6,557810.0,5,291456.0,233,1,2021-08-12,Jakarta
+RedDoorz near RSUD Koja,Jakarta Utara,Free Wifi,8.9,Luar Biasa,6,242895.0,5,219213.0,175,1,2021-08-12,Jakarta
+RedDoorz @ Jalan Jaksa,Jakarta Pusat,Free Wifi,8.6,Luar Biasa,44,251843.0,5,131588.0,105,1,2021-08-12,Jakarta
+La Boheme Rooms and Coffee,Jakarta Selatan,Free Wifi,9.4,Istimewa,4,1000000.0,24,765000.0,612,1,2021-08-12,Jakarta
+RedDoorz Plus @ Kelapa Dua Kebon Jeruk,Jakarta Barat,Free Wifi,8.0,Sangat Baik,56,341052.0,5,178200.0,142,1,2021-08-12,Jakarta
+RedDoorz Plus @ Setiabudi Tengah,Jakarta Selatan,Free Wifi,8.4,Luar Biasa,61,331578.0,5,277200.0,221,1,2021-08-12,Jakarta
+Kantos Roxy Mas,Jakarta Barat,Free Wifi,9.7,Istimewa,16,136736.0,5,129900.0,103,1,2021-08-12,Jakarta
+OYO 1868 J&b Room Pramuka Near RSUPN Dr.Cipto Mangunkusumo,Jakarta Timur,Free Wifi,5.8,Luar Biasa,5,226690.0,5,167978.0,134,1,2021-08-12,Jakarta
+RedDoorz Plus near Mangga Besar Station 2,Jakarta Barat,Free Wifi,7.2,Sangat Baik,8,282173.0,5,147436.0,117,1,2021-08-12,Jakarta
+"Benoa Sea Suites and VillasBadung,",Badung,Free Wifi,10.0,Istimewa,1,1307368.0,5,409860.0,327,1,2021-08-12,Bali
+"Quest San Denpasar by ASTONDenpasar,",Denpasar,Free Wifi,8.6,Luar Biasa,46,197740.0,5,187853.0,150,1,2021-08-12,Bali
+"Grand Livio Kuta HotelBadung,",Badung,Free Wifi,9.5,Istimewa,43,894736.0,5,229500.0,183,1,2021-08-12,Bali
+"Sense Hotel SeminyakBadung,",Badung,Free Wifi,7.6,Sangat Baik,7,1258947.0,5,203320.0,162,1,2021-08-12,Bali
+"Paragon Hotel SeminyakBadung,",Badung,Free Wifi,8.8,Luar Biasa,5,747863.0,35,296528.0,237,1,2021-08-12,Bali
+Movenpick Resort & Spa Jimbaran,Badung,Free Wifi,8.6,Luar Biasa,2,1640505.0,5,1558480.0,1246,1,2021-08-12,Bali
+"BOSS Legian HotelBadung,",Badung,Free Wifi,8.1,Luar Biasa,155,1000000.0,23,199500.0,159,1,2021-08-12,Bali
+"Canggu Dream VillageBadung,",Badung,Free Wifi,9.6,Istimewa,2,630471.0,5,197653.0,158,1,2021-08-12,Bali
+Atanaya Kuta,Badung,Free Wifi,9.1,Istimewa,280,1120842.0,5,308792.0,247,1,2021-08-12,Bali
+"MaxOneHotels at UbudGianyar,",Gianyar,Free Wifi,8.8,Luar Biasa,19,795076.0,35,232560.0,186,1,2021-08-12,Bali
+"Natya Hotel KutaBadung,",Badung,Free Wifi,8.9,Luar Biasa,36,605076.0,35,393300.0,314,1,2021-08-12,Bali
+"Kamaniiya Petitenget SeminyakBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,842105.0,5,360000.0,288,1,2021-08-12,Bali
+"Grand Inna KutaBadung,",Badung,Free Wifi,8.9,Luar Biasa,20,3764215.0,35,734022.0,587,1,2021-08-12,Bali
+"Dee MansionDenpasar,",Denpasar,Free Wifi,7.6,Sangat Baik,19,240892.0,5,146463.0,117,1,2021-08-12,Bali
+"FOX Jimbaran BeachBadung,",Badung,Free Wifi,8.3,Luar Biasa,3,915789.0,5,356700.0,285,1,2021-08-12,Bali
+"Adiwana Dara Ayu VillasGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,951578.0,5,587600.0,470,1,2021-08-12,Bali
+"L Amore Hotel SeminyakBadung,",Badung,Free Wifi,8.4,Luar Biasa,35,394872.0,35,192500.0,154,1,2021-08-12,Bali
+Unknown,Tabanan,Free Wifi,9.4,Istimewa,3,1029552.0,5,978075.0,782,1,2021-08-12,Bali
+"Solaris Hotel KutaBadung,",Badung,Free Wifi,8.6,Luar Biasa,111,236842.0,5,123750.0,99,1,2021-08-12,Bali
+"Siesta Legian HotelBadung,",Badung,Free Wifi,9.2,Istimewa,125,631578.0,5,204000.0,163,1,2021-08-12,Bali
+"Tijili SeminyakBadung,",Badung,Free Wifi,9.0,Luar Biasa,13,1563157.0,5,445500.0,356,1,2021-08-12,Bali
+Hilton,Badung,No,8.7,Luar Biasa,7,1481027.0,13,1285916.0,257,1,2021-08-12,Bali
+"Adiwana Monkey ForestGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,950526.0,5,352170.0,281,1,2021-08-12,Bali
+"Adiwana Arkara ResortGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,2098606.0,5,996838.0,797,1,2021-08-12,Bali
+"Singaraja HotelBuleleng,",Buleleng,Free Wifi,7.8,Sangat Baik,11,631578.0,5,270000.0,216,1,2021-08-12,Bali
+"Anja JimbaranBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,2769230.0,35,630000.0,504,1,2021-08-12,Bali
+"Rimbun Canggu HotelBadung,",Badung,Free Wifi,10.0,Istimewa,2,1164307.0,35,317856.0,254,1,2021-08-12,Bali
+Pure,Badung,Free Wifi,8.4,Luar Biasa,0,14736842.0,5,10500000.0,8400,1,2021-08-12,Bali
+"HARRIS Hotel Kuta GalleriaBadung,",Badung,Free Wifi,8.6,Luar Biasa,10,420915.0,5,279909.0,223,1,2021-08-12,Bali
+The Crystal Luxury Bay Resort Nusa Dua -,Badung,Free Wifi,8.7,Luar Biasa,4,1357894.0,5,536124.0,428,1,2021-08-12,Bali
+"Adiwana Unagi SuitesGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,1389056.0,5,659802.0,527,1,2021-08-12,Bali
+"Watu Jineng by WizZeLaKlungkung,",Klungkung,Free Wifi,8.4,Luar Biasa,0,526315.0,5,500000.0,400,1,2021-08-12,Bali
+"Adiwana SuwetaGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,1110526.0,5,527500.0,422,1,2021-08-12,Bali
+"Adiwana Resort JembawanGianyar,",Gianyar,Free Wifi,10.0,Istimewa,1,2368421.0,5,877500.0,702,1,2021-08-12,Bali
+"Adiwana Svarga LokaGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,731578.0,5,333600.0,266,1,2021-08-12,Bali
+Stark Boutique Hotel and Spa,Badung,Free Wifi,8.6,Luar Biasa,39,770786.0,35,225455.0,180,1,2021-08-12,Bali
+Unknown,Badung,Free Wifi,8.3,Luar Biasa,81,658000.0,13,201500.0,161,1,2021-08-12,Bali
+"Moritz Palm VillaBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,12736842.0,5,6050000.0,4840,1,2021-08-12,Bali
+"Grand Whiz Hotel Nusa DuaBadung,",Badung,Free Wifi,9.0,Luar Biasa,12,1466526.0,5,696600.0,557,1,2021-08-12,Bali
+"Mount Batur VillaBangli,",Bangli,Free Wifi,9.8,Istimewa,2,1070526.0,5,406800.0,325,1,2021-08-12,Bali
+"HARRIS Hotel & Residences Sunset RoadKuta,",Kuta,Free Wifi,8.4,Luar Biasa,50,630526.0,5,329450.0,263,1,2021-08-12,Bali
+OYO Flagship 90747 Ransha Stay,Denpasar,Free Wifi,8.4,Luar Biasa,0,317243.0,5,235077.0,188,1,2021-08-12,Bali
+"POP! Hotel Teuku UmarDenpasar,",Denpasar,Free Wifi,8.3,Luar Biasa,81,256141.0,5,243334.0,194,1,2021-08-12,Bali
+Le Grande,Badung,Free Wifi,8.5,Luar Biasa,21,1250000.0,25,373800.0,299,1,2021-08-12,Bali
+Bloo,Badung,Free Wifi,8.4,Luar Biasa,0,280000.0,5,154280.0,123,1,2021-08-12,Bali
+Grand,Badung,Free Wifi,9.2,Istimewa,5,1500000.0,21,770250.0,616,1,2021-08-12,Bali
+"Amatara Arya UbudGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,775814.0,5,309550.0,247,1,2021-08-12,Bali
+"Villa Deh Simba at Seminyak AramanisBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,6105263.0,5,5800000.0,4640,1,2021-08-12,Bali
+"Adiwana Warnakali ResortKlungkung,",Klungkung,Free Wifi,8.4,Luar Biasa,0,2269856.0,5,1078182.0,862,1,2021-08-12,Bali
+POP! Hotel Denpasar,Denpasar,Free Wifi,8.2,Luar Biasa,41,256410.0,35,166667.0,133,1,2021-08-12,Bali
+"Kutabex Beach Front HotelBadung,",Badung,Free Wifi,8.7,Luar Biasa,99,756315.0,5,359250.0,287,1,2021-08-12,Bali
+"Mars City HotelDenpasar,",Denpasar,Free Wifi,7.5,Sangat Baik,53,700000.0,35,159250.0,127,1,2021-08-12,Bali
+"Rofa Kuta HotelBadung,",Badung,Free Wifi,8.2,Luar Biasa,51,575384.0,35,175780.0,140,1,2021-08-12,Bali
+"The Sun Heaven Ubud by InaraGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,951578.0,5,361600.0,289,1,2021-08-12,Bali
+POP! Hotel Kuta Beach,Badung,Free Wifi,8.3,Luar Biasa,213,205263.0,5,195000.0,156,1,2021-08-12,Bali
+"Transera Kamini Legian HotelBadung,",Badung,Free Wifi,8.6,Luar Biasa,17,1184615.0,35,246400.0,197,1,2021-08-12,Bali
+"Permata Kuta HotelBadung,",Badung,Free Wifi,8.7,Luar Biasa,52,1052631.0,5,220000.0,176,1,2021-08-12,Bali
+HARRIS Hotel Kuta Tuban,Badung,Free Wifi,8.9,Luar Biasa,22,642105.0,5,250100.0,200,1,2021-08-12,Bali
+HARRIS Hotel and Conventions Denpasar,Denpasar,Free Wifi,8.6,Luar Biasa,54,278947.0,5,265000.0,212,1,2021-08-12,Bali
+"Swandewi HomestayBadung,",Badung,No,6.9,Baik,12,83076.0,35,54000.0,43,1,2021-08-12,Bali
+"Nirmala Hotel JimbaranBadung,",Badung,Free Wifi,7.9,Sangat Baik,20,700000.0,20,196196.0,156,1,2021-08-12,Bali
+"Villa Gajah Mas Bedugul by eCommerceLokaTabanan,",Tabanan,Free Wifi,8.4,Luar Biasa,0,955263.0,5,363000.0,290,1,2021-08-12,Bali
+HARRIS Hotel Seminyak,Badung,Free Wifi,8.3,Luar Biasa,32,584210.0,5,360750.0,288,1,2021-08-12,Bali
+"Amatara Athaya UbudGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,620631.0,5,265320.0,212,1,2021-08-12,Bali
+"Amatara Agung RakaGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,571263.0,5,260496.0,208,1,2021-08-12,Bali
+"The Aveda Boutique HotelBadung,",Badung,Free Wifi,8.6,Luar Biasa,2,810526.0,5,292600.0,234,1,2021-08-12,Bali
+"Kuta Majesty HotelBadung,",Badung,Free Wifi,9.6,Istimewa,5,460000.0,33,198900.0,159,1,2021-08-12,Bali
+"The Vasini HotelDenpasar,",Denpasar,Free Wifi,8.0,Sangat Baik,10,650000.0,5,247047.0,197,1,2021-08-12,Bali
+"J4 Hotels LegianBadung,",Badung,Free Wifi,8.8,Luar Biasa,45,1069600.0,35,312858.0,250,1,2021-08-12,Bali
+"Sri KrisnaBadung,",Badung,Free Wifi,10.0,Istimewa,1,300000.0,20,239200.0,191,1,2021-08-12,Bali
+HOTEL & RESIDENCES Riverview Kuta -,Badung,Free Wifi,8.4,Luar Biasa,89,576842.0,5,383600.0,306,1,2021-08-12,Bali
+"Loft Legian HotelBadung,",Badung,Free Wifi,7.7,Sangat Baik,17,1461538.0,35,361000.0,288,1,2021-08-12,Bali
+"Blanjong Homestay by eCommerceLokaDenpasar,",Denpasar,Free Wifi,9.5,Istimewa,3,560000.0,31,153720.0,122,1,2021-08-12,Bali
+"The Rinaya Canggu by eCommerceLokaBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,774712.0,35,201425.0,161,1,2021-08-12,Bali
+"Losari Sunset HotelBadung,",Badung,No,8.4,Luar Biasa,86,343076.0,35,178400.0,142,1,2021-08-12,Bali
+"The Legian Sunset ResidenceBadung,",Badung,Free Wifi,7.2,Sangat Baik,18,761538.0,35,311850.0,249,1,2021-08-12,Bali
+Villa Atap Padi by Nagisa,Gianyar,Free Wifi,8.4,Luar Biasa,0,9473684.0,5,3780000.0,3024,1,2021-08-12,Bali
+Lloyd's Inn,Badung,Free Wifi,8.6,Luar Biasa,5,554210.0,5,447525.0,358,1,2021-08-12,Bali
+"Pradja Slumbung VillasKlungkung,",Klungkung,Free Wifi,10.0,Istimewa,1,618947.0,5,264600.0,211,1,2021-08-12,Bali
+"Bhanuswari Resort & SpaGianyar,",Gianyar,Free Wifi,6.8,Baik,5,1135786.0,5,323699.0,258,1,2021-08-12,Bali
+Villa,Badung,Free Wifi,8.4,Luar Biasa,0,7692308.0,35,2100000.0,1680,1,2021-08-12,Bali
+"Adiwana Arya VillasGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,904000.0,5,360696.0,288,1,2021-08-12,Bali
+"Hotel Neo+ Kuta Legian by ASTONBadung,",Badung,Free Wifi,9.0,Luar Biasa,33,500000.0,27,364800.0,291,1,2021-08-12,Bali
+"Agata VillasBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,4230769.0,35,1787500.0,1430,1,2021-08-12,Bali
+"Amatara Royal GaneshaGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,916842.0,5,348400.0,278,1,2021-08-12,Bali
+"Maharaja VillasBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,3000000.0,8,1787500.0,1430,1,2021-08-12,Bali
+Lidwina Villa by Nagisa,Badung,Free Wifi,8.4,Luar Biasa,0,4923077.0,35,1344000.0,1075,1,2021-08-12,Bali
+Villa La Sirena by Nagisa,Badung,Free Wifi,8.4,Luar Biasa,0,4923077.0,35,1344000.0,1075,1,2021-08-12,Bali
+Villa Kaja by Nagisa,Badung,Free Wifi,8.4,Luar Biasa,0,7894737.0,5,3150000.0,2520,1,2021-08-12,Bali
+"The Awandari Villas SeminyakBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,1406202.0,5,868330.0,694,1,2021-08-12,Bali
+"Hotel Wirton SeminyakBadung,",Badung,Free Wifi,9.2,Istimewa,3,173684.0,5,165000.0,132,1,2021-08-12,Bali
+Villa,Badung,Free Wifi,8.4,Luar Biasa,0,2042105.0,5,1261000.0,1008,1,2021-08-12,Bali
+"Lavender Villa & SpaBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,1715000.0,5,651700.0,521,1,2021-08-12,Bali
+"The Joglo Beratan by eCommerceLokaTabanan,",Tabanan,Free Wifi,8.4,Luar Biasa,0,1410315.0,5,535920.0,428,1,2021-08-12,Bali
+"Menjangan Dynasty ResortBuleleng,",Buleleng,Free Wifi,8.4,Luar Biasa,0,2887615.0,35,1501560.0,1201,1,2021-08-12,Bali
+"Tijili BenoaBadung,",Badung,Free Wifi,9.4,Istimewa,5,2631579.0,5,750000.0,600,1,2021-08-12,Bali
+"Rivavi Kuta Beach HotelBadung,",Badung,No,8.4,Luar Biasa,91,750000.0,5,249375.0,199,1,2021-08-12,Bali
+"Alam Puisi VillaGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,1511519.0,5,502580.0,402,1,2021-08-12,Bali
+"Adiwana BismaGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,0,1302703.0,5,457900.0,366,1,2021-08-12,Bali
+"Yan's House HotelBadung,",Badung,Free Wifi,9.5,Istimewa,12,1710136.0,5,487389.0,389,1,2021-08-12,Bali
+"Kompyang CottageKlungkung,",Klungkung,Free Wifi,10.0,Istimewa,1,1101579.0,5,460460.0,368,1,2021-08-12,Bali
+"The One LegianBadung,",Badung,Free Wifi,9.1,Istimewa,14,653052.0,5,465300.0,372,1,2021-08-12,Bali
+"DevinSky Hotel SeminyakBadung,",Badung,Free Wifi,9.0,Luar Biasa,8,1392161.0,5,529021.0,423,1,2021-08-12,Bali
+"RedDoorz @ Imam Bonjol KutaDenpasar,",Denpasar,Free Wifi,7.0,Baik,2,192673.0,5,100672.0,80,1,2021-08-12,Bali
+"Cara Cara InnBadung,",Badung,Free Wifi,9.0,Luar Biasa,42,265263.0,5,214200.0,171,1,2021-08-12,Bali
+"The Yani HotelDenpasar,",Denpasar,Free Wifi,8.2,Luar Biasa,23,350000.0,17,291000.0,232,1,2021-08-12,Bali
+"RedDoorz @ Taman Griya Jimbaran 2Badung,",Badung,Free Wifi,9.2,Istimewa,7,176494.0,5,167670.0,134,1,2021-08-12,Bali
+Unknown,Badung,Free Wifi,8.5,Luar Biasa,22,1366315.0,5,359546.0,287,1,2021-08-12,Bali
+Daun,Badung,Free Wifi,9.2,Istimewa,18,1615384.0,35,577500.0,462,1,2021-08-12,Bali
+"Mega Boutique Hotel and SpaBadung,",Badung,Free Wifi,8.7,Luar Biasa,109,1300000.0,28,243931.0,195,1,2021-08-12,Bali
+"Villa Mandi UbudGianyar,",Gianyar,Free Wifi,8.4,Luar Biasa,69,397894.0,5,189000.0,151,1,2021-08-12,Bali
+"The Jimbaran VillaBadung,",Badung,Free Wifi,8.8,Luar Biasa,1,2107368.0,5,2002000.0,1601,1,2021-08-12,Bali
+"Liberta Seminyak HotelBadung,",Badung,Free Wifi,8.8,Luar Biasa,46,315789.0,5,240000.0,192,1,2021-08-12,Bali
+"OYO 1486 Tantular ResidenceDenpasar,",Denpasar,Free Wifi,8.4,Luar Biasa,0,195507.0,5,144871.0,115,1,2021-08-12,Bali
+"Jimbaran 5 Guesthouse RedPartnerBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,338947.0,5,177100.0,141,1,2021-08-12,Bali
+"RedDoorz near Legian StreetBadung,",Badung,Free Wifi,9.0,Luar Biasa,5,257894.0,5,134750.0,107,1,2021-08-12,Bali
+"Mansu Hotel & Spa LegianDenpasar,",Denpasar,Free Wifi,8.4,Luar Biasa,0,148256.0,5,140844.0,112,1,2021-08-12,Bali
+"Double-Six Luxury Hotel SeminyakBadung,",Badung,No,9.4,Istimewa,3,1784598.0,11,1593386.0,318,1,2021-08-12,Bali
+"RedDoorz @ Kerta Dalem SidakaryaDenpasar,",Denpasar,Free Wifi,8.4,Luar Biasa,0,253157.0,5,132275.0,105,1,2021-08-12,Bali
+"Aleesha VillasDenpasar,",Denpasar,Free Wifi,8.4,Luar Biasa,0,833684.0,5,435600.0,348,1,2021-08-12,Bali
+"Sanur Art VillasDenpasar,",Denpasar,Free Wifi,8.4,Luar Biasa,0,568421.0,5,297000.0,237,1,2021-08-12,Bali
+"OYO 2136 Escotel KrisnantaraBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,200238.0,5,148377.0,118,1,2021-08-12,Bali
+"Taman Agung HotelDenpasar,",Denpasar,Free Wifi,8.4,Luar Biasa,0,450000.0,17,375000.0,300,1,2021-08-12,Bali
+Grand Zuri Kuta,Badung,Free Wifi,8.3,Luar Biasa,71,407116.0,5,255262.0,204,1,2021-08-12,Bali
+"Kaen ApartmentsBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,183333.0,18,150000.0,120,1,2021-08-12,Bali
+"Aksari Resort UbudGianyar,",Gianyar,Free Wifi,9.6,Istimewa,2,1901052.0,5,1173900.0,939,1,2021-08-12,Bali
+"OYO 1952 Hotel Dewata IndahDenpasar,",Denpasar,Free Wifi,8.4,Luar Biasa,0,133077.0,5,98611.0,78,1,2021-08-12,Bali
+OYO 3904 Kiki Residence,Denpasar,Free Wifi,8.4,Luar Biasa,2,184622.0,5,131543.0,105,1,2021-08-12,Bali
+"Suris Boutique HotelBadung,",Badung,Free Wifi,10.0,Istimewa,2,210000.0,5,199500.0,159,1,2021-08-12,Bali
+"The Capella Guest HouseBadung,",Badung,Free Wifi,8.3,Luar Biasa,8,180000.0,5,171000.0,136,1,2021-08-12,Bali
+"Manca VillaBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,1923157.0,5,1187550.0,950,1,2021-08-12,Bali
+"Lembayung Sari HomestayDenpasar,",Denpasar,Free Wifi,9.6,Istimewa,4,261346.0,5,163864.0,131,1,2021-08-12,Bali
+"Padmasari Resort LovinaBuleleng,",Buleleng,Free Wifi,8.5,Luar Biasa,9,1368421.0,5,780000.0,624,1,2021-08-12,Bali
+The Decks,Badung,Free Wifi,8.4,Luar Biasa,0,1435789.0,5,736560.0,589,1,2021-08-12,Bali
+"RedDoorz near Penimbangan Beach SingarajaBuleleng,",Buleleng,Free Wifi,8.4,Luar Biasa,0,470652.0,5,245916.0,196,1,2021-08-12,Bali
+"OYO 3716 DijobiBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,238721.0,5,176892.0,141,1,2021-08-12,Bali
+"Aston Canggu Beach ResortBadung,",Badung,Free Wifi,8.8,Luar Biasa,1,800000.0,26,592800.0,474,1,2021-08-12,Bali
+Unknown,Denpasar,Free Wifi,9.5,Istimewa,3,431307.0,35,280350.0,224,1,2021-08-12,Bali
+"Jambuluwuk Oceano Seminyak HotelBadung,",Badung,Free Wifi,9.5,Istimewa,3,852631.0,5,567000.0,453,1,2021-08-12,Bali
+"RedDoorz near Mertasari Beach 2Denpasar,",Denpasar,Free Wifi,10.0,Istimewa,1,225789.0,5,117975.0,94,1,2021-08-12,Bali
+OYO 1684 Marina Suite Apartment,Denpasar,Free Wifi,8.4,Luar Biasa,0,217229.0,5,160967.0,128,1,2021-08-12,Bali
+"Ginanthi CottageKlungkung,",Klungkung,Free Wifi,8.4,Luar Biasa,0,146675.0,16,122850.0,98,1,2021-08-12,Bali
+"Kira CottagesKlungkung,",Klungkung,Free Wifi,10.0,Istimewa,1,335263.0,5,159250.0,127,1,2021-08-12,Bali
+"OYO 3244 Grand Chandra HotelDenpasar Barat,",Denpasar Barat,Free Wifi,8.4,Luar Biasa,0,107382.0,5,102013.0,81,1,2021-08-12,Bali
+"RedDoorz near Exit Toll Nusa DuaBadung,",Badung,Free Wifi,8.0,Sangat Baik,2,125894.0,5,119600.0,95,1,2021-08-12,Bali
+"Allamanda Villa JimbaranBadung,",Badung,Free Wifi,8.4,Luar Biasa,0,1200000.0,9,1087500.0,870,1,2021-08-12,Bali
+"OYO 3018 Vin StayRenon,",Renon,Free Wifi,8.4,Luar Biasa,0,189771.0,5,180283.0,144,1,2021-08-12,Bali
+"Matahari Guest HouseDenpasar,",Denpasar,Free Wifi,9.2,Istimewa,2,200000.0,18,115500.0,92,1,2021-08-12,Bali
+"Sekar Waru HomestayDenpasar,",Denpasar,Free Wifi,9.6,Istimewa,1,182588.0,5,147440.0,117,1,2021-08-12,Bali
+"Bellevue Hills Nusa DuaBadung,",Badung,Free Wifi,6.4,Luar Biasa,6,969230.0,35,630000.0,504,1,2021-08-12,Bali
+Whiz Prime Hotel Khatib Sulaiman,Padang Utara,Free Wifi,8.6,Luar Biasa,85,690000.0,22,428000.0,342,1,2021-08-12,Padang
+Mocca Guest House,Padang Barat,Free Wifi,8.5,Luar Biasa,4,544673.0,5,413952.0,331,1,2021-08-12,Padang
+Fafan Budget Hotel,Padang Utara,Free Wifi,4.0,Luar Biasa,4,186923.0,35,103275.0,82,1,2021-08-12,Padang
+favehotel Olo,Padang Barat,Free Wifi,8.1,Luar Biasa,143,523400.0,31,358986.0,287,1,2021-08-12,Padang
+Hotel Pangeran City,Padang Barat,Free Wifi,7.9,Sangat Baik,120,426315.0,5,405000.0,324,1,2021-08-12,Padang
+Kyriad Hotel BumiMinang,Padang Barat,Free Wifi,8.2,Luar Biasa,71,1000000.0,35,650000.0,520,1,2021-08-12,Padang
+Daima Hotel,Padang Timur,Free Wifi,8.6,Luar Biasa,111,417557.0,5,396680.0,317,1,2021-08-12,Padang
+Deivan Hotel,Padang Barat,Free Wifi,8.5,Luar Biasa,44,461538.0,35,300000.0,240,1,2021-08-12,Padang
+Rocky Plaza Hotel,Padang Barat,Free Wifi,8.8,Luar Biasa,96,1101579.0,5,837200.0,669,1,2021-08-12,Padang
+RedDoorz Plus Syariah @ Jalan Dr Sutomo,Padang Timur,Free Wifi,6.5,Baik,10,427001.0,5,223108.0,178,1,2021-08-12,Padang
+RedDoorz Plus Syariah near RSUP Dr. M. Djamil,Sawahan,Free Wifi,7.4,Sangat Baik,4,290747.0,5,248589.0,198,1,2021-08-12,Padang
+Polamas Residence,Padang Timur,Free Wifi,9.3,Istimewa,9,207368.0,5,197000.0,157,1,2021-08-12,Padang
+SPOT ON 2182 Al-ghani 2,Padang Timur,Free Wifi,8.4,Luar Biasa,1,180822.0,5,133989.0,107,1,2021-08-12,Padang
+Truntum,Padang Barat,Free Wifi,8.7,Luar Biasa,103,3333333.0,21,2639656.0,2111,1,2021-08-12,Padang
+Hotel Putra Mahkota Syariah RedPartner,Padang Barat,Free Wifi,8.4,Luar Biasa,0,411483.0,5,215000.0,172,1,2021-08-12,Padang
+Wisma Mutiara,Padang Barat,Free Wifi,6.0,Luar Biasa,6,200000.0,5,133000.0,106,1,2021-08-12,Padang
+Guest House RangkayoBasa,Padang Timur,Free Wifi,8.1,Luar Biasa,4,300000.0,27,220000.0,176,1,2021-08-12,Padang
+ibis,Padang Utara,No,8.5,Luar Biasa,45,725596.0,5,689317.0,137,1,2021-08-12,Padang
+RedDoorz near Universitas Negeri,Ulak Karang Selatan,Free Wifi,9.8,Istimewa,3,280800.0,5,240084.0,192,1,2021-08-12,Padang
+OYO 721 Sulaiman Residence Syariah,Padang Utara,Free Wifi,7.8,Sangat Baik,4,251569.0,5,186413.0,149,1,2021-08-12,Padang
+OYO 3092 Falah Residence Syariah,Padang Timur,Free Wifi,8.8,Luar Biasa,1,240167.0,5,177964.0,142,1,2021-08-12,Padang
+"OYO 3907 Mine ResidenceNanggalo,",Nanggalo,Free Wifi,8.4,Luar Biasa,0,212507.0,5,157468.0,125,1,2021-08-12,Padang
+OYO 1649 Grya Lavinsa,Padang Barat,Free Wifi,9.2,Istimewa,1,332235.0,5,246187.0,196,1,2021-08-12,Padang
+"OYO 1326 Mahakam Guest HouseKoto Tangah,",Koto Tangah,Free Wifi,10.0,Istimewa,2,361287.0,5,267714.0,214,1,2021-08-12,Padang
+OYO 3305 Bumi Siliwangi Residence,Padang Utara,Free Wifi,8.4,Luar Biasa,2,227223.0,5,168372.0,134,1,2021-08-12,Padang
+"OYO 3315 Tanjung Residence SyariahUlak Karang Selatan,",Ulak Karang Selatan,Free Wifi,8.4,Luar Biasa,0,262970.0,5,194861.0,155,1,2021-08-12,Padang
+RedDoorz near Jembatan Siti Nurbaya,Padang Selatan,Free Wifi,8.4,Luar Biasa,5,383684.0,5,200475.0,160,1,2021-08-12,Padang
+OYO 1673 M Authentic Kost Man,Padang Barat,Free Wifi,8.4,Luar Biasa,0,262194.0,5,194286.0,155,1,2021-08-12,Padang
+Homestay Pondok Minang,Padang Barat,Free Wifi,8.4,Luar Biasa,0,270000.0,5,256500.0,205,1,2021-08-12,Padang
+OYO 897 d'Dhave Hotel,Padang Barat,Free Wifi,8.5,Luar Biasa,5,360843.0,5,267385.0,213,1,2021-08-12,Padang
+Asokatama Residence Syariah RedPartner,Padang Barat,Free Wifi,5.6,Luar Biasa,5,307073.0,5,175032.0,140,1,2021-08-12,Padang
+"New d'Dhave HotelNanggalo,",Nanggalo,Free Wifi,7.9,Sangat Baik,34,445000.0,13,389050.0,311,1,2021-08-12,Padang
+OYO 1191 Monalisa Residence And Cafe,Padang Utara,Free Wifi,4.1,Luar Biasa,4,275017.0,5,203788.0,163,1,2021-08-12,Padang
+360 Homestay,Padang Barat,Free Wifi,8.4,Luar Biasa,0,323886.0,5,200000.0,160,1,2021-08-12,Padang
+OYO 3160 Guesthouse Pagi Sore Syariah,Padang Barat,Free Wifi,8.4,Luar Biasa,0,226850.0,5,168096.0,134,1,2021-08-12,Padang
+SPOT ON 2946 Harland Guesthouse,Padang Selatan,Free Wifi,8.4,Luar Biasa,0,193525.0,5,143402.0,114,1,2021-08-12,Padang
+Grand Sari Hotel,Padang Selatan,Free Wifi,8.1,Luar Biasa,31,315789.0,5,300000.0,240,1,2021-08-12,Padang
+The ZHM Premiere (d/h Grand Zuri),Padang Selatan,Free Wifi,8.5,Luar Biasa,61,2315789.0,5,2200000.0,1760,1,2021-08-12,Padang
+Plan B Hotel,Padang Barat,No,8.2,Luar Biasa,2,538461.0,35,350000.0,70,1,2021-08-12,Padang
+OYO 1305 Hotel Al-Ghani,Padang Timur,Free Wifi,8.4,Luar Biasa,0,267700.0,5,198366.0,158,1,2021-08-12,Padang
+OYO 3252 Lansano Residence Syariah,Padang Utara,Free Wifi,8.4,Luar Biasa,0,236118.0,5,174964.0,139,1,2021-08-12,Padang
+RedDoorz Syariah near Plaza Andalas,Padang Barat,Free Wifi,8.4,Luar Biasa,0,315948.0,5,165083.0,132,1,2021-08-12,Padang
+Rangkayo Basa - Halal Hotel,Padang Barat,Free Wifi,8.2,Luar Biasa,14,357894.0,5,340000.0,272,1,2021-08-12,Padang
+HW Hotel,Padang Barat,No,7.2,Sangat Baik,8,733333.0,22,570000.0,114,1,2021-08-12,Padang
+Hotel Pangeran Beach,Padang Barat,Free Wifi,8.0,Sangat Baik,35,1038461.0,35,675000.0,540,1,2021-08-12,Padang
+OYO 1306 Cendrawasih Homestay,Padang Barat,Free Wifi,9.6,Istimewa,4,270735.0,5,200615.0,160,1,2021-08-12,Padang
+Hotel,Padang Timur,Free Wifi,8.7,Luar Biasa,18,350000.0,5,332500.0,266,1,2021-08-12,Padang
+"OYO 3073 Twin House SyariahNanggalo,",Nanggalo,Free Wifi,8.4,Luar Biasa,0,159556.0,5,118232.0,94,1,2021-08-12,Padang
+OYO 3606 Cendrawasih Resident,Padang Barat,Free Wifi,8.4,Luar Biasa,0,308831.0,5,228844.0,183,1,2021-08-12,Padang
+Mariani International Hotel Bundo Kandung,Padang Barat,Free Wifi,7.7,Sangat Baik,17,347715.0,5,330330.0,264,1,2021-08-12,Padang
+OYO 4010 Zaara Guest House Syariah,Padang Timur,Free Wifi,8.4,Luar Biasa,0,349145.0,5,331688.0,265,1,2021-08-12,Padang
+OYO 1995 Dream Syariah,Padang Barat,Free Wifi,8.4,Luar Biasa,0,270767.0,5,200639.0,160,1,2021-08-12,Padang
+Hotel Asoka,Padang Timur,Free Wifi,8.4,Luar Biasa,0,191578.0,5,182000.0,145,1,2021-08-12,Padang
+Oxville Hotel,Padang Barat,No,7.6,Sangat Baik,1,623076.0,35,405000.0,81,1,2021-08-12,Padang
+The Abidin hotel Syariah,Padang Selatan,Free Wifi,6.7,Baik,3,307692.0,35,200000.0,160,1,2021-08-12,Padang
+"Cavery Beach HotelBungus Teluk Kabung,",Bungus Teluk Kabung,Free Wifi,7.4,Sangat Baik,3,455000.0,35,295750.0,236,1,2021-08-12,Padang
+Hotel Mongonsidi,Padang Barat,Free Wifi,4.8,Luar Biasa,4,359000.0,19,289000.0,231,1,2021-08-12,Padang
+Bunda Hotel,Padang Barat,Free Wifi,8.4,Luar Biasa,2,630000.0,35,409500.0,327,1,2021-08-12,Padang
+Garuda Hotel Syariah,Padang Barat,No,8.4,Luar Biasa,0,333333.0,25,250000.0,50,1,2021-08-12,Padang
+"OYO 2202 Delima Guest House SyariahKoto Tangah,",Koto Tangah,Free Wifi,8.4,Luar Biasa,0,267520.0,5,198232.0,158,1,2021-08-12,Padang
+The Sriwijaya Hotel Syariah,Padang Barat,Free Wifi,7.4,Sangat Baik,20,502153.0,35,326400.0,261,1,2021-08-12,Padang
+Hotel Savali,Padang Barat,No,8.4,Luar Biasa,0,668197.0,31,460000.0,92,1,2021-08-12,Padang
+Ion Hotel,Padang Utara,Free Wifi,7.8,Sangat Baik,25,400000.0,14,343373.0,274,1,2021-08-12,Padang
+Hotel Djakarta Syariah,Padang Barat,No,2.0,Luar Biasa,2,366667.0,25,275000.0,55,1,2021-08-12,Padang
+Hotel Musafir Inn,Padang Timur,Free Wifi,9.1,Istimewa,13,276923.0,35,180000.0,144,1,2021-08-12,Padang
+Jesnic Hotel,Padang Selatan,No,8.4,Luar Biasa,0,266667.0,25,200000.0,40,1,2021-08-12,Padang
+Batang Arau Homestay,Padang Barat,No,8.4,Luar Biasa,0,133333.0,25,100000.0,20,1,2021-08-12,Padang
+"OYO 3266 Alifah Residence SyariahNanggalo,",Nanggalo,Free Wifi,8.4,Luar Biasa,0,224936.0,5,166678.0,133,1,2021-08-12,Padang
+OYO 3414 Gurita Residence Syariah,Padang Barat,Free Wifi,8.4,Luar Biasa,0,229215.0,5,169849.0,135,1,2021-08-12,Padang
+Wisma Rumah KIta,Padang Barat,Free Wifi,8.4,Luar Biasa,0,446333.0,5,254410.0,203,1,2021-08-12,Padang
+"Uncle Jack Beach Homestay 1Koto Tangah,",Koto Tangah,No,8.4,Luar Biasa,0,526315.0,5,500000.0,400,1,2021-08-12,Padang
+Guest House Arini Syariah,Padang Utara,No,8.4,Luar Biasa,0,280789.0,5,266750.0,213,1,2021-08-12,Padang
+Lestari Guesthouse,Padang Barat,Free Wifi,8.4,Luar Biasa,0,356036.0,5,202941.0,162,1,2021-08-12,Padang
+Febbycell Guesthouse,Padang Barat,No,8.4,Luar Biasa,0,160000.0,25,120000.0,24,1,2021-08-12,Padang
+"Grace Hill Villa Lubuk MinturunKoto Tangah,",Koto Tangah,No,8.4,Luar Biasa,0,2333333.0,25,1750000.0,350,1,2021-08-12,Padang
+"DNA KostNanggalo,",Nanggalo,No,8.4,Luar Biasa,0,533333.0,25,400000.0,80,1,2021-08-12,Padang
+Hotel Alifa Syariah,Padang Barat,No,8.4,Luar Biasa,0,540000.0,35,350000.0,70,1,2021-08-12,Padang
+Wisma Tatar Pasundan,Padang Utara,No,8.4,Luar Biasa,0,240000.0,25,180000.0,36,1,2021-08-12,Padang
+Rumah Tamu Agung,Padang Timur,No,8.4,Luar Biasa,0,239999.0,25,179999.0,35,1,2021-08-12,Padang
+Hotel Femina,Padang Barat,No,10.0,Istimewa,1,306667.0,25,230000.0,46,1,2021-08-12,Padang
+Balinda Guest House,Padang Utara,No,8.4,Luar Biasa,0,278461.0,35,181000.0,36,1,2021-08-12,Padang
+"Villa Rumah Kayu Lubuk MinturunKoto Tangah,",Koto Tangah,No,8.4,Luar Biasa,0,1133333.0,25,850000.0,170,1,2021-08-12,Padang
+Nagari Koto Gadang,Padang Barat,No,8.4,Luar Biasa,0,369230.0,35,240000.0,48,1,2021-08-12,Padang
+OYO 90468 Monalisa Guesthouse,Padang Barat,No,8.4,Luar Biasa,0,170271.0,5,161758.0,32,1,2021-08-12,Padang
+Roemah Proklamasi Syariah,Padang Barat,Free Wifi,8.4,Luar Biasa,0,230000.0,5,207575.0,166,1,2021-08-12,Padang
+Janevalla,Bandung Wetan,Free Wifi,9.4,Istimewa,168,2923975.0,5,1805555.0,1444,1,2021-08-12,Bandung
+Travello Hotel,Cidadap,Free Wifi,8.9,Luar Biasa,113,1084736.0,5,669825.0,535,1,2021-08-12,Bandung
+DBest Hotel Pasar Baru,Astana Anyar,Free Wifi,8.6,Luar Biasa,95,622769.0,35,242880.0,194,1,2021-08-12,Bandung
+Kimaya Braga,Sumurbandung,Free Wifi,8.4,Luar Biasa,1,789473.0,5,637500.0,510,1,2021-08-12,Bandung
+"Hotel Nyland PasteurCicendo,",Cicendo,Free Wifi,8.2,Luar Biasa,137,575822.0,5,355570.0,284,1,2021-08-12,Bandung
+"Namin Dago HotelCoblong,",Coblong,Free Wifi,8.3,Luar Biasa,41,684210.0,5,422500.0,338,1,2021-08-12,Bandung
+"Apartment Tamansari Panoramic By NarelArcamanik,",Arcamanik,Free Wifi,7.9,Sangat Baik,34,192307.0,35,125000.0,100,1,2021-08-12,Bandung
+"Grand Viveana HotelCicendo,",Cicendo,Free Wifi,8.9,Luar Biasa,97,1368421.0,5,416000.0,332,1,2021-08-12,Bandung
+"Kedaton HotelSumurbandung,",Sumurbandung,Free Wifi,8.8,Luar Biasa,105,691727.0,5,459999.0,367,1,2021-08-12,Bandung
+"The Suites Metro Apartment By YudisBuahbatu,",Buahbatu,No,8.5,Luar Biasa,280,370769.0,35,132550.0,106,1,2021-08-12,Bandung
+"The Papandayan HotelLengkong,",Lengkong,Free Wifi,9.7,Istimewa,41,1604842.0,5,1372140.0,1097,1,2021-08-12,Bandung
+Mitra Hotel,Cibeunying Kaler,Free Wifi,8.6,Luar Biasa,166,682895.0,35,443882.0,355,1,2021-08-12,Bandung
+eL Hotel Royale,Sumurbandung,Free Wifi,9.1,Istimewa,1082,3000000.0,19,2420500.0,1936,1,2021-08-12,Bandung
+"The Suites Metro Apartment By FarisBuahbatu,",Buahbatu,Free Wifi,7.8,Sangat Baik,30,246153.0,35,160000.0,128,1,2021-08-12,Bandung
+"Grand Setiabudi HotelSetiabudi,",Setiabudi,Free Wifi,9.0,Luar Biasa,254,850000.0,18,490560.0,392,1,2021-08-12,Bandung
+De Batara Hotel,Bandung Wetan,Free Wifi,8.5,Luar Biasa,115,600000.0,33,260000.0,208,1,2021-08-12,Bandung
+"Smart Room Near Pasteur by Asoka InnSukasari,",Sukasari,Free Wifi,8.8,Luar Biasa,58,321366.0,35,125333.0,100,1,2021-08-12,Bandung
+Grand Dafam Braga,Sumurbandung,Free Wifi,9.0,Luar Biasa,2,1205263.0,5,973250.0,778,1,2021-08-12,Bandung
+Travelers Inn,Bandung Wetan,Free Wifi,8.6,Luar Biasa,25,508828.0,5,290032.0,232,1,2021-08-12,Bandung
+"Grand Amellia HotelSukasari,",Sukasari,Free Wifi,8.0,Sangat Baik,105,150000.0,27,110000.0,88,1,2021-08-12,Bandung
+"Dago's Hill HotelCoblong,",Coblong,Free Wifi,8.7,Luar Biasa,22,300000.0,27,165375.0,132,1,2021-08-12,Bandung
+"Hotel VictoryCicendo,",Cicendo,Free Wifi,8.4,Luar Biasa,31,426315.0,5,263250.0,210,1,2021-08-12,Bandung
+Wood Hotel,Cidadap,Free Wifi,6.9,Baik,19,1526636.0,5,275558.0,220,1,2021-08-12,Bandung
+"Asoka InnSukasari,",Sukasari,Free Wifi,8.3,Luar Biasa,26,362392.0,35,141333.0,113,1,2021-08-12,Bandung
+Grand Cordela Hotel,Cinambo,Free Wifi,8.8,Luar Biasa,473,507692.0,35,330000.0,264,1,2021-08-12,Bandung
+"Gateway Pasteur Apartment by SMCicendo,",Cicendo,Free Wifi,9.2,Istimewa,2,514458.0,35,200639.0,160,1,2021-08-12,Bandung
+"Edy PropertyBuahbatu,",Buahbatu,Free Wifi,8.4,Luar Biasa,0,263684.0,5,157815.0,126,1,2021-08-12,Bandung
+"Collection O 22 Hotel Pasar Baru HeritageAndir,",Andir,Free Wifi,7.9,Sangat Baik,12,289857.0,5,214785.0,171,1,2021-08-12,Bandung
+"Smart Room at Gateway Pasteur ApartmentCicendo,",Cicendo,No,7.6,Sangat Baik,10,526495.0,35,205333.0,164,1,2021-08-12,Bandung
+"OYO 295 Grha Ciumbuleuit Guest HouseCidadap,",Cidadap,Free Wifi,8.9,Luar Biasa,46,255306.0,5,189182.0,151,1,2021-08-12,Bandung
+Collection O 17 Hotel Btc,Sukajadi,Free Wifi,8.6,Luar Biasa,24,263411.0,5,250241.0,200,1,2021-08-12,Bandung
+"RedDoorz Plus @ Karapitan StreetLengkong,",Lengkong,Free Wifi,9.3,Istimewa,8,322294.0,5,290871.0,232,1,2021-08-12,Bandung
+Panen Hotel,Bandung Wetan,Free Wifi,8.4,Luar Biasa,0,282105.0,5,268000.0,214,1,2021-08-12,Bandung
+"OYO 90266 Jarrdin Apartement By BedpackerCoblong,",Coblong,Free Wifi,8.4,Luar Biasa,0,229453.0,5,170025.0,136,1,2021-08-12,Bandung
+Platinum 1012 Studio Tera Apartemen,Sumurbandung,Free Wifi,8.4,Luar Biasa,0,765789.0,5,509250.0,407,1,2021-08-12,Bandung
+"OYO 90205 Queen Rent Apartment Gateway PasteurCicendo,",Cicendo,Free Wifi,8.4,Luar Biasa,0,335247.0,5,248418.0,198,1,2021-08-12,Bandung
+Daily Inn Hotel,Regol,Free Wifi,8.6,Luar Biasa,5,247473.0,5,235100.0,188,1,2021-08-12,Bandung
+"RedDoorz @ Pelajar Pejuang 3Lengkong,",Lengkong,Free Wifi,8.4,Luar Biasa,19,295017.0,5,154147.0,123,1,2021-08-12,Bandung
+"Atlantic City HotelCicendo,",Cicendo,Free Wifi,8.5,Luar Biasa,183,500000.0,30,343000.0,274,1,2021-08-12,Bandung
+"RedDoorz Premium @ Hotel HebatBabakan Ciparay,",Babakan Ciparay,Free Wifi,9.6,Istimewa,11,269473.0,5,243200.0,194,1,2021-08-12,Bandung
+"The Suites Metro Apartment By King PropertyBuahbatu,",Buahbatu,Free Wifi,8.0,Sangat Baik,17,184210.0,5,175000.0,140,1,2021-08-12,Bandung
+"RedDoorz Plus @ Dago Pojok 3Coblong,",Coblong,Free Wifi,8.3,Luar Biasa,15,250000.0,5,225625.0,180,1,2021-08-12,Bandung
+"Mine Home by SoviaCicendo,",Cicendo,Free Wifi,8.4,Luar Biasa,67,836000.0,31,347424.0,277,1,2021-08-12,Bandung
+"Meize City CenterSumurbandung,",Sumurbandung,Free Wifi,8.4,Luar Biasa,476,398461.0,35,259000.0,207,1,2021-08-12,Bandung
+Sari Ater Kamboti Hotel,Sukajadi,Free Wifi,8.6,Luar Biasa,354,631578.0,5,600000.0,480,1,2021-08-12,Bandung
+"The Suites Metro Apartement by Naufal Faris PropertyBuahbatu,",Buahbatu,Free Wifi,5.2,Luar Biasa,5,242307.0,35,157500.0,126,1,2021-08-12,Bandung
+"Capital O 991 D'batoe Boutique HotelCicendo,",Cicendo,Free Wifi,4.6,Luar Biasa,4,442677.0,5,328024.0,262,1,2021-08-12,Bandung
+FOX Lite Hotel Metro Indah -,Soekarno Hatta Bypass,Free Wifi,8.6,Luar Biasa,336,445017.0,35,291000.0,232,1,2021-08-12,Bandung
+"Kampioen Bed & BreakfastCicendo,",Cicendo,Free Wifi,8.9,Luar Biasa,14,514512.0,5,332375.0,265,1,2021-08-12,Bandung
+"RedDoorz @ Buah BatuBuahbatu,",Buahbatu,Free Wifi,8.8,Luar Biasa,33,245207.0,5,128121.0,102,1,2021-08-12,Bandung
+Sans Hotel Andalucia Pasteur,Cicendo,Free Wifi,7.4,Sangat Baik,2,495001.0,5,258638.0,206,1,2021-08-12,Bandung
+"RedDoorz Apartment @ Tamansari Panoramic Soekarno Hatta 3Arcamanik,",Arcamanik,Free Wifi,6.6,Baik,4,226580.0,5,204488.0,163,1,2021-08-12,Bandung
+"RedDoorz near Trans Studio Mall 2Lengkong,",Lengkong,Free Wifi,9.4,Istimewa,47,228306.0,5,206046.0,164,1,2021-08-12,Bandung
+"RedDoorz @ Arwiga HotelSukajadi,",Sukajadi,Free Wifi,7.6,Sangat Baik,35,244736.0,5,127875.0,102,1,2021-08-12,Bandung
+"Collection O 25 Hotel BaltikaLengkong,",Lengkong,Free Wifi,8.6,Luar Biasa,2,240185.0,5,177977.0,142,1,2021-08-12,Bandung
+"Apartement Gateway Pasteur by TN HospitalityCicendo,",Cicendo,Free Wifi,9.2,Istimewa,10,331578.0,5,315000.0,252,1,2021-08-12,Bandung
+"OYO 1699 Verona ResidenceCiumbuleuit,",Ciumbuleuit,Free Wifi,8.4,Luar Biasa,46,183712.0,5,136131.0,108,1,2021-08-12,Bandung
+"RedDoorz @ KiaracondongBatununggal,",Batununggal,Free Wifi,7.7,Sangat Baik,10,175526.0,5,166750.0,133,1,2021-08-12,Bandung
+RedDoorz Premium near,Andir,Free Wifi,8.4,Luar Biasa,6,313796.0,5,283202.0,226,1,2021-08-12,Bandung
+"RedDoorz Apartment @ Jarrdin CihampelasCoblong,",Coblong,Free Wifi,8.3,Luar Biasa,32,273552.0,5,259875.0,207,1,2021-08-12,Bandung
+Tab Hotel,Astana Anyar,Free Wifi,9.6,Istimewa,8,384615.0,35,250000.0,200,1,2021-08-12,Bandung
+"Are You and I Bed and BreakfastCimenyan,",Cimenyan,Free Wifi,8.7,Luar Biasa,18,407526.0,5,348435.0,278,1,2021-08-12,Bandung
+"Residences by RedDoorz near Rumah ModeCoblong,",Coblong,Free Wifi,8.3,Luar Biasa,47,204252.0,5,184338.0,147,1,2021-08-12,Bandung
+"RedDoorz near Setrasari Mall 2Sukajadi,",Sukajadi,Free Wifi,9.3,Istimewa,6,275500.0,5,143949.0,115,1,2021-08-12,Bandung
+"Ardan HotelSukajadi,",Sukajadi,Free Wifi,8.6,Luar Biasa,160,472736.0,5,381735.0,305,1,2021-08-12,Bandung
+RedDoorz Plus @ Point Phila Cihampelas,Bandung Wetan,Free Wifi,8.8,Luar Biasa,20,301244.0,5,286182.0,228,1,2021-08-12,Bandung
+PRIME PARK Hotel,Cibeunying Kaler,Free Wifi,8.7,Luar Biasa,273,576052.0,5,547250.0,437,1,2021-08-12,Bandung
+"Bobobox Pods Alun AlunRegol,",Regol,Free Wifi,9.3,Istimewa,7,218863.0,5,176732.0,141,1,2021-08-12,Bandung
+"Zoe Guest HouseSukajadi,",Sukajadi,Free Wifi,9.0,Luar Biasa,2,244547.0,5,232320.0,185,1,2021-08-12,Bandung
+"Alqueby HotelKiaracondong,",Kiaracondong,Free Wifi,8.5,Luar Biasa,7,1326252.0,5,692967.0,554,1,2021-08-12,Bandung
+RedDoorz Apartment @ Emerald Towers,Buahbatu,Free Wifi,8.0,Sangat Baik,7,279815.0,5,146204.0,116,1,2021-08-12,Bandung
+"KoolKost near Setrasari Mall 2Sukajadi,",Sukajadi,Free Wifi,8.1,Luar Biasa,19,186512.0,5,168328.0,134,1,2021-08-12,Bandung
+RedDoorz @ Gatot Subroto Street,Batununggal,Free Wifi,8.6,Luar Biasa,4,245368.0,5,128205.0,102,1,2021-08-12,Bandung
+"Kiara Cozy HotelKiaracondong,",Kiaracondong,Free Wifi,10.0,Istimewa,1,180000.0,17,127500.0,102,1,2021-08-12,Bandung
+"RedDoorz @ SurapatiCibeunying Kaler,",Cibeunying Kaler,Free Wifi,8.0,Sangat Baik,12,215001.0,5,194038.0,155,1,2021-08-12,Bandung
+"RedDoorz @ Hotel Arimbi Baru Dewi SartikaRegol,",Regol,Free Wifi,7.8,Sangat Baik,19,361236.0,5,188746.0,150,1,2021-08-12,Bandung
+"RedDoorz Apartment @ Gateway Pasteur 2Cicendo,",Cicendo,Free Wifi,8.2,Luar Biasa,15,319737.0,5,288563.0,230,1,2021-08-12,Bandung
+"RedDoorz Apartment @ Grand Asia AfrikaLengkong,",Lengkong,Free Wifi,8.2,Luar Biasa,4,392369.0,5,354113.0,283,1,2021-08-12,Bandung
+"Hotel Yehezkiel Surapati RedPartnerCibeunying Kaler,",Cibeunying Kaler,Free Wifi,9.0,Luar Biasa,5,632294.0,5,558632.0,446,1,2021-08-12,Bandung
+"El Cavana HotelAndir,",Andir,Free Wifi,8.5,Luar Biasa,187,600000.0,13,519488.0,415,1,2021-08-12,Bandung
+"Grand Pacific HotelCicendo,",Cicendo,Free Wifi,8.4,Luar Biasa,244,672307.0,35,437000.0,349,1,2021-08-12,Bandung
+"West Point HotelAndir,",Andir,Free Wifi,8.9,Luar Biasa,147,580000.0,23,449460.0,359,1,2021-08-12,Bandung
+"OYO 2085 Chrysanta Near RSUP Hasan SadikinCicendo,",Cicendo,Free Wifi,4.8,Luar Biasa,4,139075.0,5,103055.0,82,1,2021-08-12,Bandung
+"The Victoria Luxurious Guest HouseSukasari,",Sukasari,Free Wifi,8.2,Luar Biasa,293,346153.0,35,225000.0,180,1,2021-08-12,Bandung
+"Saloka GuesthouseCimahi,",Cimahi,Free Wifi,8.7,Luar Biasa,7,370688.0,5,200728.0,160,1,2021-08-12,Bandung
+"RedDoorz near Trans Studio Mall 3Lengkong,",Lengkong,Free Wifi,6.4,Luar Biasa,6,201789.0,5,178281.0,142,1,2021-08-12,Bandung
+The Ibizzza Idea's Hotel,Batununggal,Free Wifi,8.4,Luar Biasa,0,315789.0,5,300000.0,240,1,2021-08-12,Bandung
+Hotel Andelir,Sukajadi,Free Wifi,9.6,Istimewa,3,263157.0,5,250000.0,200,1,2021-08-12,Bandung
+Hotel Kumala,Lengkong,Free Wifi,10.0,Istimewa,2,423076.0,35,275000.0,220,1,2021-08-12,Bandung
+"RedDoorz Apartment @ The Suites Metro Soekarno HattaBuahbatu,",Buahbatu,Free Wifi,7.7,Sangat Baik,17,250178.0,5,221033.0,176,1,2021-08-12,Bandung
+Hotel Cihampelas,Coblong,Free Wifi,3.2,Luar Biasa,3,354694.0,5,185328.0,148,1,2021-08-12,Bandung
+"RedDoorz near Taman Makam Pahlawan CikutraCibeunying Kaler,",Cibeunying Kaler,Free Wifi,9.0,Luar Biasa,12,798366.0,5,682603.0,546,1,2021-08-12,Bandung
+KoolKost near,Cicendo,Free Wifi,8.4,Luar Biasa,0,198947.0,5,103950.0,83,1,2021-08-12,Bandung
+Collection O 10 Sweet Karina,Sukajadi,Free Wifi,8.4,Luar Biasa,16,291438.0,5,215956.0,172,1,2021-08-12,Bandung
+"RedDoorz @ Dago Asri 3Coblong,",Coblong,Free Wifi,8.0,Sangat Baik,17,545352.0,5,284947.0,227,1,2021-08-12,Bandung
+"New Moonlight HotelAstana Anyar,",Astana Anyar,Free Wifi,8.9,Luar Biasa,36,178710.0,5,169775.0,135,1,2021-08-12,Bandung
+The Summit Siliwangi Hotel,Bandung Wetan,Free Wifi,8.7,Luar Biasa,99,263157.0,5,250000.0,200,1,2021-08-12,Bandung
+"Tokyo CuboCicendo,",Cicendo,Free Wifi,9.5,Istimewa,9,146357.0,5,132088.0,105,1,2021-08-12,Bandung
+RedDoorz near Riau Junction Mall 2,Bandung Wetan,Free Wifi,6.4,Luar Biasa,6,269974.0,5,141062.0,112,1,2021-08-12,Bandung
+"The Suites Metro Apartement By DestaBuahbatu,",Buahbatu,Free Wifi,9.0,Luar Biasa,2,229846.0,35,149400.0,119,1,2021-08-12,Bandung
+Hotel Nalendra,Coblong,Free Wifi,7.5,Sangat Baik,107,684210.0,5,292500.0,234,1,2021-08-12,Bandung
+RedDoorz near Tegalega,Regol,Free Wifi,10.0,Istimewa,5,236580.0,5,123613.0,98,1,2021-08-12,Bandung
+"Bobobox Pods PaskalCicendo,",Cicendo,Free Wifi,9.5,Istimewa,39,325000.0,34,181535.0,145,1,2021-08-12,Bandung
+"OYO 1444 Patradissa HotelCicendo,",Cicendo,Free Wifi,6.7,Baik,4,182315.0,5,135096.0,108,1,2021-08-12,Bandung
+OYO 794 LN 9,Sukajadi,Free Wifi,9.2,Istimewa,9,198882.0,5,147372.0,117,1,2021-08-12,Bandung
+Bobobox Pods Dago,Bandung Wetan,Free Wifi,9.9,Istimewa,7,325000.0,26,239000.0,191,1,2021-08-12,Bandung
+RedDoorz @ Home 33,Sukajadi,Free Wifi,7.3,Sangat Baik,6,189473.0,5,171000.0,136,1,2021-08-12,Bandung
+"RedDoorz near Istana Plaza 3Cicendo,",Cicendo,Free Wifi,9.8,Istimewa,2,229957.0,5,207537.0,166,1,2021-08-12,Bandung
+"OYO Flagship 1511 Galaxy InnLengkong,",Lengkong,Free Wifi,8.7,Luar Biasa,4,295555.0,5,280778.0,224,1,2021-08-12,Bandung
+"OYO 1360 Bumi Makhraja SyariahCibeunying Kaler,",Cibeunying Kaler,Free Wifi,9.9,Istimewa,7,233008.0,5,172659.0,138,1,2021-08-12,Bandung
+"RedDoorz Plus near Sukajadi 2Sukajadi,",Sukajadi,Free Wifi,8.0,Sangat Baik,15,167292.0,5,158928.0,127,1,2021-08-12,Bandung
+"OYO 3743 Gania HotelSumurbandung,",Sumurbandung,No,9.4,Istimewa,10,360647.0,5,267240.0,213,1,2021-08-12,Bandung
+"RedDoorz @ Hotel Damanaka PangalenganPangalengan,",Pangalengan,Free Wifi,6.4,Luar Biasa,6,298421.0,5,155925.0,124,1,2021-08-12,Bandung
+"RedDoorz near Margahayu RayaBuahbatu,",Buahbatu,Free Wifi,8.6,Luar Biasa,15,245368.0,5,128205.0,102,1,2021-08-12,Bandung
+"OYO 342 De'Kayakini HotelRancasari,",Rancasari,Free Wifi,9.4,Istimewa,8,182453.0,5,135198.0,108,1,2021-08-12,Bandung
+"RedDoorz @ Cikutra 3Cibeunying Kaler,",Cibeunying Kaler,Free Wifi,10.0,Istimewa,12,191818.0,5,173117.0,138,1,2021-08-12,Bandung
+"High Livin ApartmentCimahi,",Cimahi,No,8.1,Luar Biasa,16,351892.0,35,201282.0,161,1,2021-08-12,Bandung
+RedDoorz near Alun Alun,Regol,Free Wifi,8.4,Luar Biasa,1,226947.0,5,204820.0,163,1,2021-08-12,Bandung
+OYO 3756 Pilatus Hotel,Sukasari,Free Wifi,8.4,Luar Biasa,0,175936.0,5,130369.0,104,1,2021-08-12,Bandung
+"RedDoorz Plus @ Sukamulya Pasteur 2Sukajadi,",Sukajadi,Free Wifi,8.3,Luar Biasa,23,1015847.0,5,897501.0,718,1,2021-08-12,Bandung
+"OYO 1608 Feby MaisonatteSukajadi,",Sukajadi,Free Wifi,8.4,Luar Biasa,4,126800.0,5,93959.0,75,1,2021-08-12,Bandung
+"Cihampelas Hotel 2Cihampelas,",Cihampelas,Free Wifi,8.4,Luar Biasa,0,481869.0,5,251777.0,201,1,2021-08-12,Bandung
+"Bobocabin Ranca UpasRancabali,",Rancabali,Free Wifi,10.0,Istimewa,1,1065789.0,5,860625.0,688,1,2021-08-12,Bandung
+RedDoorz Syariah near Regol Park,Regol,Free Wifi,8.0,Sangat Baik,1,560426.0,5,292823.0,234,1,2021-08-12,Bandung
+"Bali World HotelBuahbatu,",Buahbatu,Free Wifi,7.9,Sangat Baik,319,471252.0,5,272690.0,218,1,2021-08-12,Bandung
+"RedDoorz Plus near Kampung Gajah 3Sukasari,",Sukasari,Free Wifi,7.7,Sangat Baik,21,176532.0,5,159321.0,127,1,2021-08-12,Bandung
+RedDoorz Plus near Museum Geologi,Cibeunying Kaler,Free Wifi,8.1,Luar Biasa,5,367831.0,5,331968.0,265,1,2021-08-12,Bandung
+"Grand Kembar Hotel RedPartnerRegol,",Regol,Free Wifi,7.6,Sangat Baik,1,509020.0,5,265963.0,212,1,2021-08-12,Bandung
+OYO 352 Wisma Sabang,Bandung Wetan,Free Wifi,9.0,Luar Biasa,18,313547.0,5,297870.0,238,1,2021-08-12,Bandung
+"OYO 3753 Cassa Dua HotelSukajadi,",Sukajadi,Free Wifi,8.4,Luar Biasa,0,163677.0,5,121285.0,97,1,2021-08-12,Bandung
+"RedDoorz near Gedung Sate 2Coblong,",Coblong,Free Wifi,8.6,Luar Biasa,64,348601.0,5,314612.0,251,1,2021-08-12,Bandung
+"RedDoorz @ Buah Batu 3Lengkong,",Lengkong,Free Wifi,5.3,Luar Biasa,5,225789.0,5,117975.0,94,1,2021-08-12,Bandung
+"Hotel Astria GrahaLengkong,",Lengkong,Free Wifi,8.1,Luar Biasa,128,298421.0,5,113400.0,90,1,2021-08-12,Bandung
+"Puri Setiabudhi Residence HotelCidadap,",Cidadap,Free Wifi,8.7,Luar Biasa,19,3232842.0,5,1689160.0,1351,1,2021-08-12,Bandung
+"Hotel EveBojongloa Kidul,",Bojongloa Kidul,Free Wifi,5.5,Luar Biasa,5,439695.0,5,229741.0,183,1,2021-08-12,Bandung
+"Villa ArgapuriPasirjambu,",Pasirjambu,Free Wifi,9.0,Luar Biasa,10,284210.0,5,189000.0,151,1,2021-08-12,Bandung
+"Shofy Guest House RedPartnerRancasari,",Rancasari,Free Wifi,10.0,Istimewa,2,547232.0,5,285929.0,228,1,2021-08-12,Bandung
+"OYO 3429 Sentra Paskal Near Rumah Sakit Kebon JatiAndir,",Andir,Free Wifi,8.4,Luar Biasa,0,289247.0,5,214332.0,171,1,2021-08-12,Bandung
+"RedDoorz Syariah near Krida NusantaraCibiru,",Cibiru,Free Wifi,7.8,Sangat Baik,7,200000.0,5,190000.0,152,1,2021-08-12,Bandung
+"OYO 3953 Hotel Catellya II CipakuCidadap,",Cidadap,Free Wifi,8.0,Sangat Baik,49,181187.0,5,134260.0,107,1,2021-08-12,Bandung
+"youre.at - The Majesty ApartmentSukajadi,",Sukajadi,Free Wifi,5.6,Luar Biasa,5,500610.0,5,475580.0,380,1,2021-08-12,Bandung
+"RedDoorz near Kampung Gajah 2Parongpong,",Parongpong,Free Wifi,7.7,Sangat Baik,8,340143.0,5,177725.0,142,1,2021-08-12,Bandung
+Locus Rooms,Bandung Kidul,Free Wifi,9.4,Istimewa,2,495862.0,5,292063.0,233,1,2021-08-12,Bandung
+POP! Hotel,Bojongloa Kaler,Free Wifi,8.4,Luar Biasa,313,303000.0,5,259065.0,207,1,2021-08-12,Bandung
+"Abang Hotel CiwideyCiwidey,",Ciwidey,Free Wifi,8.4,Luar Biasa,2,371233.0,5,211603.0,169,1,2021-08-12,Bandung
+"OYO 3952 Hotel C 18 CibaduyutBojongloa Kidul,",Bojongloa Kidul,Free Wifi,8.4,Luar Biasa,0,213472.0,5,158183.0,126,1,2021-08-12,Bandung
+Mess 888,Bandung Kidul,Free Wifi,8.4,Luar Biasa,75,117692.0,35,76500.0,61,1,2021-08-12,Bandung
+"RedDoorz Plus near Isola UpiSukasari,",Sukasari,Free Wifi,8.2,Luar Biasa,103,176013.0,5,155508.0,124,1,2021-08-12,Bandung
+"OYO 1859 Rancabali Residence Near Rumah Sakit Mitra KasihCimahi,",Cimahi,Free Wifi,4.4,Luar Biasa,4,194403.0,5,144053.0,115,1,2021-08-12,Bandung
+"OYO 3406 Pandu Prima Guest HouseAntapani,",Antapani,Free Wifi,8.4,Luar Biasa,0,234895.0,5,174058.0,139,1,2021-08-12,Bandung
+Best Western Premier Panbil,Sei Beduk,Free Wifi,9.2,Istimewa,12,1190894.0,5,791945.0,633,1,2021-08-12,Batam
+"Pacific Palace HotelBatu Ampar,",Batu Ampar,Free Wifi,8.2,Luar Biasa,2,757894.0,5,540000.0,432,1,2021-08-12,Batam
+"Nagoya Mansion Hotel and ResidenceLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,23,664818.0,5,347368.0,277,1,2021-08-12,Batam
+"The Golden Bay HotelBengkong,",Bengkong,Free Wifi,9.1,Istimewa,132,209692.0,35,136300.0,109,1,2021-08-12,Batam
+"Triniti Hotel NagoyaBatu Ampar,",Batu Ampar,Free Wifi,8.0,Sangat Baik,35,434000.0,35,225680.0,180,1,2021-08-12,Batam
+RedDoorz Plus near Pantai Coastarina 2,Batam Kota,Free Wifi,8.0,Sangat Baik,1,305263.0,5,159500.0,127,1,2021-08-12,Batam
+"Baloi View ApartmentLubuk Baja,",Lubuk Baja,Free Wifi,10.0,Istimewa,1,168421.0,5,160000.0,128,1,2021-08-12,Batam
+RedDoorz Premium near Grand,Batam Kota,Free Wifi,9.6,Istimewa,5,362369.0,5,189338.0,151,1,2021-08-12,Batam
+RedDoorz @ Batu Aji,Batu Aji,Free Wifi,8.4,Luar Biasa,2,277105.0,5,236925.0,189,1,2021-08-12,Batam
+OYO 1867 Kara Guest House,Batam Center,Free Wifi,9.0,Luar Biasa,4,224875.0,5,166633.0,133,1,2021-08-12,Batam
+"Link HotelBatu Aji,",Batu Aji,Free Wifi,10.0,Istimewa,1,230000.0,13,200000.0,160,1,2021-08-12,Batam
+"Grand Sydney HotelLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,330505.0,5,313980.0,251,1,2021-08-12,Batam
+Lovina Inn Hotel,Batam Kota,Free Wifi,10.0,Istimewa,1,387620.0,5,294591.0,235,1,2021-08-12,Batam
+RedDoorz @,Batam Kota,Free Wifi,9.2,Istimewa,4,270000.0,5,141075.0,112,1,2021-08-12,Batam
+RedDoorz near Pantai Coastarina,Batu Ampar,Free Wifi,7.2,Sangat Baik,7,221052.0,5,189000.0,151,1,2021-08-12,Batam
+RedDoorz near Plaza Botania 1,Batam Kota,Free Wifi,8.4,Luar Biasa,2,221052.0,5,178500.0,142,1,2021-08-12,Batam
+RedDoorz Plus near DC Mall,Lubuk Baja,Free Wifi,7.0,Baik,4,310118.0,5,162037.0,129,1,2021-08-12,Batam
+RedDoorz Plus near Ferry Terminal,Batam Kota,Free Wifi,7.6,Sangat Baik,3,389864.0,5,203704.0,162,1,2021-08-12,Batam
+"Golden View HotelBengkong,",Bengkong,Free Wifi,8.0,Sangat Baik,6,2000000.0,26,1485000.0,1188,1,2021-08-12,Batam
+"OYO 90269 Hotel Indorasa 2Lubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,204244.0,5,151345.0,121,1,2021-08-12,Batam
+SBS Resort,Batam Kota,No,8.4,Luar Biasa,0,2807897.0,5,1467126.0,1173,1,2021-08-12,Batam
+Hotel Rezeki,Lubuk Baja,Free Wifi,6.4,Luar Biasa,6,326570.0,5,186145.0,148,1,2021-08-12,Batam
+"Anaria Homestay SyariahLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,261028.0,5,148786.0,119,1,2021-08-12,Batam
+RedDoorz near Nagoya Hill Mall,Batu Ampar,Free Wifi,6.0,Luar Biasa,6,189663.0,5,99099.0,79,1,2021-08-12,Batam
+Sky View Hotel,Batam Kota,Free Wifi,8.4,Luar Biasa,28,264426.0,5,238645.0,190,1,2021-08-12,Batam
+"RedDoorz @ Nagoya IndahLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,8,233550.0,5,122030.0,97,1,2021-08-12,Batam
+Asialink Easy by Prasanthi formerly The Evitel,Lubuk Baja,Free Wifi,9.4,Istimewa,13,410526.0,5,351000.0,280,1,2021-08-12,Batam
+Graceland Inn,Teluk Tering,Free Wifi,8.4,Luar Biasa,0,145263.0,5,138000.0,110,1,2021-08-12,Batam
+"Ondos HotelBelian,",Belian,Free Wifi,8.4,Luar Biasa,0,315789.0,5,300000.0,240,1,2021-08-12,Batam
+"BATAM 1 HOTELLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,315789.0,5,300000.0,240,1,2021-08-12,Batam
+OS Hotel Batu Aji,Batu Aji,Free Wifi,7.5,Sangat Baik,5,221052.0,5,136500.0,109,1,2021-08-12,Batam
+Alinson Boutique Residence,Batam Kota,Free Wifi,8.4,Luar Biasa,0,643616.0,5,336290.0,269,1,2021-08-12,Batam
+RedDoorz near Nagoya Citywalk,Lubuk Baja,Free Wifi,8.0,Sangat Baik,11,235789.0,5,123200.0,98,1,2021-08-12,Batam
+Harmoni One Convention Hotel & Service Apartments,Batam Kota,Free Wifi,8.8,Luar Biasa,81,623076.0,35,405000.0,324,1,2021-08-12,Batam
+RedDoorz near Hang Nadim,Batam Center,Free Wifi,7.0,Baik,5,292453.0,5,152807.0,122,1,2021-08-12,Batam
+Venia Hotel,Sagulung,Free Wifi,6.4,Luar Biasa,6,280000.0,33,189000.0,151,1,2021-08-12,Batam
+RedDoorz near Nagoya HIll,Batu Ampar,Free Wifi,8.4,Luar Biasa,0,217653.0,5,113724.0,90,1,2021-08-12,Batam
+RedDoorz @ Batu Aji,Batu Aji,Free Wifi,10.0,Istimewa,2,179126.0,5,153153.0,122,1,2021-08-12,Batam
+RedDoorz Plus near,Lubuk Baja,Free Wifi,8.5,Luar Biasa,13,400000.0,33,147538.0,118,1,2021-08-12,Batam
+"OYO 90350 Hotel Five Star 2Lubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,263125.0,5,194976.0,155,1,2021-08-12,Batam
+"Blitz Hotel Tj UncangSagulung,",Sagulung,Free Wifi,8.0,Sangat Baik,1,385431.0,5,219696.0,175,1,2021-08-12,Batam
+RedDoorz @ Pasar Melayu Sagulung,Batu Aji,Free Wifi,10.0,Istimewa,1,225749.0,5,193016.0,154,1,2021-08-12,Batam
+RedDoorz @ Baloi,Lubuk Baja,Free Wifi,10.0,Istimewa,2,248093.0,5,153198.0,122,1,2021-08-12,Batam
+Eska Hotel,Batam Kota,Free Wifi,8.6,Luar Biasa,11,550000.0,18,450000.0,360,1,2021-08-12,Batam
+RedDoorz near RSUD Embung Fatimah,Batu Aji,Free Wifi,9.0,Luar Biasa,5,315948.0,5,165083.0,132,1,2021-08-12,Batam
+"OYO 664 Romance HotelNagoya,",Nagoya,Free Wifi,7.4,Sangat Baik,6,218835.0,5,162157.0,129,1,2021-08-12,Batam
+Aston,Lubuk Baja,Free Wifi,9.5,Istimewa,11,971267.0,5,922704.0,738,1,2021-08-12,Batam
+"The L Hotel EntertainmentLubuk Baja,",Lubuk Baja,Free Wifi,7.2,Sangat Baik,13,350000.0,29,250000.0,200,1,2021-08-12,Batam
+OYO 1103 Hotel Prima,Batam Kota,Free Wifi,8.4,Luar Biasa,0,308742.0,5,228778.0,183,1,2021-08-12,Batam
+"OYO 676 Nasa HotelLubuk Baja Kota,",Lubuk Baja Kota,Free Wifi,8.6,Luar Biasa,4,299833.0,5,222177.0,177,1,2021-08-12,Batam
+"OYO 90366 Homestay 81 BaloiLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,180426.0,5,133696.0,106,1,2021-08-12,Batam
+Kaliban Hotel,Batam Kota,Free Wifi,8.4,Luar Biasa,20,523076.0,35,340000.0,272,1,2021-08-12,Batam
+Panbil Residence Apartment,Sei Beduk,Free Wifi,8.3,Luar Biasa,7,804589.0,5,764360.0,611,1,2021-08-12,Batam
+"The K Hotel ( Ex Hotel Seruni )Batu Ampar,",Batu Ampar,Free Wifi,8.6,Luar Biasa,27,386667.0,26,285000.0,228,1,2021-08-12,Batam
+Villa Nongsa Point Marina & Resort By,Nongsa,Free Wifi,8.4,Luar Biasa,0,1263157.0,5,1200000.0,960,1,2021-08-12,Batam
+"OYO 1703 Terang Bintang HotelLubuk Baja,",Lubuk Baja,Free Wifi,3.6,Luar Biasa,3,218589.0,5,161975.0,129,1,2021-08-12,Batam
+Unknown,Lubuk Baja,Free Wifi,8.5,Luar Biasa,20,538461.0,35,350000.0,280,1,2021-08-12,Batam
+ASTON Inn Gideon -,Lubuk Baja,Free Wifi,8.8,Luar Biasa,19,698310.0,35,453902.0,363,1,2021-08-12,Batam
+Swiss-Belinn Baloi,Lubuk Baja,Free Wifi,8.4,Luar Biasa,47,355789.0,5,338000.0,270,1,2021-08-12,Batam
+"OS Style HotelBatu Aji,",Batu Aji,Free Wifi,8.7,Luar Biasa,19,266911.0,5,253566.0,202,1,2021-08-12,Batam
+Zest Hotel Harbour Bay,Batu Ampar,Free Wifi,8.7,Luar Biasa,69,446153.0,35,290000.0,232,1,2021-08-12,Batam
+"Swiss-Belhotel Harbour BayBatu Ampar,",Batu Ampar,Free Wifi,9.0,Luar Biasa,8,1461538.0,35,950000.0,760,1,2021-08-12,Batam
+"Nagoya Hill HotelLubuk Baja,",Lubuk Baja,No,8.0,Sangat Baik,1,800000.0,31,550000.0,110,1,2021-08-12,Batam
+OS Hotel Airport,Batam Kota,Free Wifi,8.5,Luar Biasa,42,330000.0,9,300000.0,240,1,2021-08-12,Batam
+Greenland Hotel,Batam Kota,Free Wifi,7.8,Sangat Baik,21,350000.0,26,182000.0,145,1,2021-08-12,Batam
+Barelang Hotel Nagoya,Batu Ampar,Free Wifi,8.3,Luar Biasa,43,350000.0,29,212500.0,170,1,2021-08-12,Batam
+"OYO 3212 Coffee Jodoh HomestayBatu Ampar,",Batu Ampar,Free Wifi,8.4,Luar Biasa,0,256297.0,5,189917.0,151,1,2021-08-12,Batam
+HARRIS Resort Barelang,Sagulung,Free Wifi,9.2,Istimewa,30,1450526.0,5,1378000.0,1102,1,2021-08-12,Batam
+Biz Hotel,Lubuk Baja,Free Wifi,7.8,Sangat Baik,32,357894.0,5,340000.0,272,1,2021-08-12,Batam
+Hotel Fresh One,Batam Kota,Free Wifi,8.8,Luar Biasa,10,263157.0,5,250000.0,200,1,2021-08-12,Batam
+SPOT ON 2755 Zainab Homestay,Batam Kota,Free Wifi,8.4,Luar Biasa,0,217692.0,5,161310.0,129,1,2021-08-12,Batam
+RedDoorz Plus near Nagoya Hill,Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,202501.0,5,105807.0,84,1,2021-08-12,Batam
+Queen Victoria Apartment,Batam Kota,Free Wifi,9.9,Istimewa,3,555578.0,5,369460.0,295,1,2021-08-12,Batam
+Unknown,Batu Ampar,Free Wifi,8.4,Luar Biasa,0,321538.0,35,209000.0,167,1,2021-08-12,Batam
+"I Hotel BaloiLubuk Baja,",Lubuk Baja,Free Wifi,9.6,Istimewa,1,1139684.0,5,1082700.0,866,1,2021-08-12,Batam
+Hans Inn,Lubuk Baja,Free Wifi,10.0,Istimewa,2,384615.0,35,250000.0,200,1,2021-08-12,Batam
+BLITZ HOTEL,Batam Center,Free Wifi,9.3,Istimewa,6,257894.0,5,208250.0,166,1,2021-08-12,Batam
+"OYO 625 Hotel Golden GateLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,147252.0,5,139890.0,111,1,2021-08-12,Batam
+"OYO 1671 D-one HotelLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,226674.0,5,167966.0,134,1,2021-08-12,Batam
+"OYO 90351 Hotel Five Star 1Lubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,203574.0,5,150849.0,120,1,2021-08-12,Batam
+Jakson Homestay,Batam Kota,Free Wifi,10.0,Istimewa,1,115789.0,5,110000.0,88,1,2021-08-12,Batam
+Hokkie Hotel,Nongsa,Free Wifi,10.0,Istimewa,1,289473.0,5,275000.0,220,1,2021-08-12,Batam
+OYO 1917 Mamora Homestay,Batam Kota,Free Wifi,8.4,Luar Biasa,0,163805.0,5,121380.0,97,1,2021-08-12,Batam
+"Woda Villa & SpaBengkong,",Bengkong,No,7.4,Sangat Baik,6,667692.0,35,434000.0,86,1,2021-08-12,Batam
+Sahid,Batam Kota,Free Wifi,8.3,Luar Biasa,75,600000.0,5,570000.0,456,1,2021-08-12,Batam
+"AVAVA EXPRESSLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,210526.0,5,200000.0,160,1,2021-08-12,Batam
+"Lovina Inn PenuinLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,487436.0,5,277839.0,222,1,2021-08-12,Batam
+"Dju Dju HotelLubuk Baja,",Lubuk Baja,No,5.5,Luar Biasa,5,197333.0,30,138000.0,27,1,2021-08-12,Batam
+Zia Hotel Boutique,Batam Kota,Free Wifi,8.5,Luar Biasa,29,384615.0,35,250000.0,200,1,2021-08-12,Batam
+Nite & Day,Batu Ampar,Free Wifi,7.7,Sangat Baik,21,346153.0,35,146250.0,117,1,2021-08-12,Batam
+"Amaris Hotel Nagoya HillLubuk Baja,",Lubuk Baja,Free Wifi,8.7,Luar Biasa,28,505263.0,5,350400.0,280,1,2021-08-12,Batam
+"OYO 1223 Hotel BahariBatu Ampar,",Batu Ampar,Free Wifi,8.5,Luar Biasa,3,179107.0,5,170152.0,136,1,2021-08-12,Batam
+Ion Hotel,Batam Center,Free Wifi,8.4,Luar Biasa,0,239867.0,32,163709.0,130,1,2021-08-12,Batam
+HARRIS Hotel,Batam Kota,Free Wifi,8.3,Luar Biasa,25,1323077.0,35,860000.0,688,1,2021-08-12,Batam
+Safina Inn Syariah Sekupang,Sekupang,Free Wifi,8.4,Luar Biasa,0,180252.0,5,102744.0,82,1,2021-08-12,Batam
+"Da Vienna Boutique HotelLubuk Baja,",Lubuk Baja,Free Wifi,8.7,Luar Biasa,6,726384.0,35,472150.0,377,1,2021-08-12,Batam
+"AK Hotel Nagoya HillNagoya,",Nagoya,Free Wifi,8.2,Luar Biasa,6,415384.0,35,270000.0,216,1,2021-08-12,Batam
+"Harmoni Suites HotelLubuk Baja,",Lubuk Baja,Free Wifi,9.0,Luar Biasa,9,500000.0,5,475000.0,380,1,2021-08-12,Batam
+"Planet Holiday Hotel and ResidenceBatu Ampar,",Batu Ampar,Free Wifi,9.0,Luar Biasa,15,750000.0,20,599000.0,479,1,2021-08-12,Batam
+"SP HotelSagulung,",Sagulung,Free Wifi,8.0,Sangat Baik,5,479106.0,35,311419.0,249,1,2021-08-12,Batam
+The Centro Hotel & Residence by Orchardz,Batam Kota,Free Wifi,8.0,Sangat Baik,11,468584.0,35,304580.0,243,1,2021-08-12,Batam
+"De Best HotelLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,2,355600.0,35,231140.0,184,1,2021-08-12,Batam
+"Music Hotel Batu AmparBatu Ampar,",Batu Ampar,No,8.4,Luar Biasa,0,222176.0,26,165000.0,33,1,2021-08-12,Batam
+Orchard Suite near,Lubuk Baja,No,8.4,Luar Biasa,0,229230.0,35,149000.0,29,1,2021-08-12,Batam
+"LEON INN NagoyaBatu Ampar,",Batu Ampar,No,2.8,Luar Biasa,2,160000.0,25,120000.0,24,1,2021-08-12,Batam
+RedDoorz Apartment @,Batam Kota,Free Wifi,8.4,Luar Biasa,0,770863.0,5,402776.0,322,1,2021-08-12,Batam
+"OYO 90367 Homestay 81 PenuinLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,180161.0,5,128365.0,102,1,2021-08-12,Batam
+RedDoorz Plus near Kepri Mall,Batam Kota,Free Wifi,7.8,Sangat Baik,15,644968.0,5,551448.0,441,1,2021-08-12,Batam
+"Hotel Pelita TerangLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,215582.0,5,126978.0,101,1,2021-08-12,Batam
+"Barelang Bridge HotelBulang,",Bulang,No,8.4,Luar Biasa,0,350000.0,35,227500.0,182,1,2021-08-12,Batam
+Harmoni Hotel,Batu Ampar,Free Wifi,10.0,Istimewa,3,1038461.0,35,472500.0,378,1,2021-08-12,Batam
+PIH,Batam Kota,Free Wifi,9.0,Luar Biasa,5,368421.0,5,350000.0,280,1,2021-08-12,Batam
+HARRIS Resort,Sekupang,Free Wifi,8.2,Luar Biasa,27,1123077.0,35,730000.0,584,1,2021-08-12,Batam
+Ibis Styles,Bengkong,No,8.4,Luar Biasa,0,648718.0,5,616283.0,123,1,2021-08-12,Batam
+"Hana HotelLubuk Baja,",Lubuk Baja,Free Wifi,8.8,Luar Biasa,34,400000.0,30,280000.0,224,1,2021-08-12,Batam
+Unknown,Nongsa,Free Wifi,5.6,Luar Biasa,5,5263158.0,5,3150000.0,2520,1,2021-08-12,Batam
+"Nongsa Point Marina & ResortNongsa,",Nongsa,Free Wifi,8.8,Luar Biasa,1,2014736.0,5,861300.0,689,1,2021-08-12,Batam
+Travelodge,Batu Ampar,Free Wifi,8.1,Luar Biasa,5,1000000.0,35,650000.0,520,1,2021-08-12,Batam
+"Holiday HotelLubuk Baja,",Lubuk Baja,No,8.4,Luar Biasa,0,406667.0,32,275000.0,55,1,2021-08-12,Batam
+Radisson Golf & Convention Center,Lubuk Baja,No,8.6,Luar Biasa,4,1208471.0,14,1035832.0,207,1,2021-08-12,Batam
+"Namii HotelLubuk Baja,",Lubuk Baja,No,8.4,Luar Biasa,0,266667.0,25,200000.0,40,1,2021-08-12,Batam
+Unknown,Batu Ampar,Free Wifi,7.8,Sangat Baik,26,289230.0,35,188000.0,150,1,2021-08-12,Batam
+"Ramayana HotelLubuk Baja,",Lubuk Baja,No,4.4,Luar Biasa,4,246667.0,25,185000.0,37,1,2021-08-12,Batam
+"KTM ResortSekupang,",Sekupang,Free Wifi,8.0,Sangat Baik,21,750000.0,5,712500.0,570,1,2021-08-12,Batam
+Holiday Inn Resort,Sekupang,No,10.0,Istimewa,1,1292415.0,33,870708.0,174,1,2021-08-12,Batam
+"I HotelLubuk Baja,",Lubuk Baja,No,9.2,Istimewa,1,1400000.0,25,1050000.0,210,1,2021-08-12,Batam
+"Hotel GlorisLubuk Baja,",Lubuk Baja,Free Wifi,8.1,Luar Biasa,17,299000.0,33,200000.0,160,1,2021-08-12,Batam
+"Green Rose HotelLubuk Baja,",Lubuk Baja,No,8.4,Luar Biasa,0,573333.0,25,430000.0,86,1,2021-08-12,Batam
+Studio Apartment Nagoya Mansion,Lubuk Baja,No,8.4,Luar Biasa,0,476923.0,35,310000.0,62,1,2021-08-12,Batam
+"Sky View Hotel (Managed by OS)Lubuk Baja,",Lubuk Baja,No,8.4,Luar Biasa,0,326804.0,23,251205.0,50,1,2021-08-12,Batam
+"City Central HotelLubuk Baja,",Lubuk Baja,Free Wifi,9.3,Istimewa,15,381538.0,35,248000.0,198,1,2021-08-12,Batam
+Crown Vista Hotel,Lubuk Baja,Free Wifi,9.0,Luar Biasa,4,550000.0,9,500500.0,400,1,2021-08-12,Batam
+"Egihill @Bukit Palem PermaiBelian,",Belian,Free Wifi,8.4,Luar Biasa,0,154000.0,35,100100.0,80,1,2021-08-12,Batam
+Happy Hotel,Batam Center,Free Wifi,8.4,Luar Biasa,0,392000.0,35,254800.0,203,1,2021-08-12,Batam
+Hotel 01,Batam Kota,Free Wifi,9.4,Istimewa,3,400000.0,14,343000.0,274,1,2021-08-12,Batam
+"Hotel 18Lubuk Baja,",Lubuk Baja,Free Wifi,4.0,Luar Biasa,4,231578.0,5,220000.0,176,1,2021-08-12,Batam
+Hotel Nagoya Inn,Lubuk Baja,Free Wifi,7.5,Sangat Baik,7,280553.0,35,182360.0,145,1,2021-08-12,Batam
+"Selesa HotelLubuk Baja,",Lubuk Baja,Free Wifi,8.4,Luar Biasa,0,525000.0,14,450000.0,360,1,2021-08-12,Batam
+"OYO 1581 Hotel Grand PalaceLubuk Baja,",Lubuk Baja,Free Wifi,6.8,Baik,1,194894.0,5,144417.0,115,1,2021-08-12,Batam
+Queen Inn,Sekupang,Free Wifi,8.4,Luar Biasa,0,269317.0,5,255852.0,204,1,2021-08-12,Batam
+"Vanilla HotelLubuk Baja,",Lubuk Baja,Free Wifi,9.2,Istimewa,21,419557.0,5,398580.0,318,1,2021-08-12,Batam
+"Turi Beach ResortNongsa,",Nongsa,Free Wifi,8.9,Luar Biasa,3,1840000.0,7,1201655.0,961,1,2021-08-12,Batam
+"OYO 1771 Zeke HotelTanjung Riau,",Tanjung Riau,Free Wifi,8.4,Luar Biasa,0,551696.0,5,408807.0,327,1,2021-08-12,Batam
+Sharon Square Apartment,Batam Kota,Free Wifi,8.4,Luar Biasa,0,600000.0,35,391500.0,313,1,2021-08-12,Batam
+Puspa Guest House Syariah,Batam Kota,Free Wifi,8.4,Luar Biasa,0,357766.0,5,203927.0,163,1,2021-08-12,Batam
+D'Kost Homestay,Batam Kota,Free Wifi,8.6,Luar Biasa,29,109181.0,35,70968.0,56,1,2021-08-12,Batam
+Low-cost Room near,Lubuk Baja,No,8.4,Luar Biasa,0,105263.0,5,100000.0,20,1,2021-08-12,Batam
+"89 HOTELLubuk Baja,",Lubuk Baja,No,8.4,Luar Biasa,0,721367.0,35,468889.0,93,1,2021-08-12,Batam
+"Grand Cendana InnLubuk Baja,",Lubuk Baja,No,8.4,Luar Biasa,0,293333.0,25,220000.0,44,1,2021-08-12,Batam
+"OYO 90507 Hotel KundurLubuk Baja,",Lubuk Baja,No,8.4,Luar Biasa,0,143463.0,5,136290.0,27,1,2021-08-12,Batam
+"Forriz Hotel YogyakartaWirobrajan,",Wirobrajan,Free Wifi,9.0,Luar Biasa,150,828743.0,5,401526.0,321,1,2021-08-12,Jogja
+"Whiz Hotel Malioboro YogyakartaGedongtengen,",Gedongtengen,Free Wifi,8.3,Luar Biasa,215,800000.0,33,425920.0,340,1,2021-08-12,Jogja
+"Prima SR Hotel & ConventionSleman,",Sleman,Free Wifi,8.2,Luar Biasa,76,417810.0,5,178614.0,142,1,2021-08-12,Jogja
+"Apartemen Jowo Kluthuk at Malioboro CitySleman,",Sleman,Free Wifi,6.6,Baik,28,454736.0,5,216000.0,172,1,2021-08-12,Jogja
+"Kimaya Sudirman Yogyakarta by HarrisGondokusuman,",Gondokusuman,Free Wifi,8.4,Luar Biasa,0,684210.0,5,552500.0,442,1,2021-08-12,Jogja
+"Satoria Hotel YogyakartaSleman,",Sleman,Free Wifi,8.9,Luar Biasa,50,804093.0,5,611111.0,488,1,2021-08-12,Jogja
+"de Laxston Hotel YogyakartaGondokusuman,",Gondokusuman,Free Wifi,8.4,Luar Biasa,188,503580.0,35,278228.0,222,1,2021-08-12,Jogja
+"Mashbrow HostelSleman,",Sleman,Free Wifi,8.4,Luar Biasa,30,131577.0,5,124999.0,99,1,2021-08-12,Jogja
+"The Victoria Hotel YogyakartaSleman,",Sleman,Free Wifi,8.9,Luar Biasa,39,2275789.0,5,756700.0,605,1,2021-08-12,Jogja
+"Best City HotelJetis,",Jetis,Free Wifi,8.6,Luar Biasa,317,500000.0,30,297500.0,238,1,2021-08-12,Jogja
+"Malioboro Prime Hotel YogyakartaGedongtengen,",Gedongtengen,Free Wifi,8.6,Luar Biasa,102,608888.0,6,484000.0,387,1,2021-08-12,Jogja
+"Greenhost Boutique Hotel PrawirotamanMergangsan,",Mergangsan,Free Wifi,8.6,Luar Biasa,82,1400000.0,26,625200.0,500,1,2021-08-12,Jogja
+"Malioboro Garden HotelDanurejan,",Danurejan,Free Wifi,8.3,Luar Biasa,165,500000.0,21,212522.0,170,1,2021-08-12,Jogja
+"Grand Sarila YogyakartaSleman,",Sleman,Free Wifi,8.1,Luar Biasa,154,312283.0,5,296669.0,237,1,2021-08-12,Jogja
+"Septia Malioboro HotelGedongtengen,",Gedongtengen,Free Wifi,9.2,Istimewa,31,157894.0,5,127500.0,102,1,2021-08-12,Jogja
+"The Arizon Hotel @ MalioboroGedongtengen,",Gedongtengen,Free Wifi,9.0,Luar Biasa,58,350000.0,21,178750.0,143,1,2021-08-12,Jogja
+"Kotta GO YogyakartaJetis,",Jetis,Free Wifi,9.8,Istimewa,14,351173.0,5,326275.0,261,1,2021-08-12,Jogja
+"All Nite & Day Hotel Gejayan YogyakartaGondokusuman,",Gondokusuman,Free Wifi,8.9,Luar Biasa,24,501300.0,5,404800.0,323,1,2021-08-12,Jogja
+"Platinum Adisucipto Hotel & Conference CenterSleman,",Sleman,Free Wifi,9.2,Istimewa,94,611368.0,5,580800.0,464,1,2021-08-12,Jogja
+"Golom Room by Vivo ApartemenSleman,",Sleman,Free Wifi,7.9,Sangat Baik,32,235000.0,16,198000.0,158,1,2021-08-12,Jogja
+"Aveon Hotel Yogyakarta by Daphna InternationalSleman,",Sleman,Free Wifi,7.8,Sangat Baik,20,821606.0,5,663447.0,530,1,2021-08-12,Jogja
+"Gallery Prawirotaman HotelMergangsan,",Mergangsan,Free Wifi,8.5,Luar Biasa,60,578947.0,5,522500.0,418,1,2021-08-12,Jogja
+"Djuragan Kamar HarmoniSleman,",Sleman,Free Wifi,8.4,Luar Biasa,0,142105.0,5,135000.0,108,1,2021-08-12,Jogja
+Griya,Jetis,Free Wifi,8.3,Luar Biasa,175,314736.0,5,233220.0,186,1,2021-08-12,Jogja
+"The Jayakarta Yogyakarta Hotel & SpaSleman,",Sleman,Free Wifi,8.2,Luar Biasa,97,2000000.0,35,650000.0,520,1,2021-08-12,Jogja
+"Casa Coco ResortGunung Kidul,",Gunung Kidul,Free Wifi,8.5,Luar Biasa,7,396598.0,5,320254.0,256,1,2021-08-12,Jogja
+"Djuragan Kamar KayonSleman,",Sleman,Free Wifi,8.4,Luar Biasa,0,157894.0,5,150000.0,120,1,2021-08-12,Jogja
+"Prima In Hotel MalioboroGedongtengen,",Gedongtengen,Free Wifi,8.6,Luar Biasa,223,520775.0,5,494737.0,395,1,2021-08-12,Jogja
+"D'Kayon Hotel Demangan YogyakartaSleman,",Sleman,Free Wifi,8.8,Luar Biasa,30,315789.0,5,300000.0,240,1,2021-08-12,Jogja
+"Khas Tugu (formerly Pesonna Hotel Tugu)Jetis,",Jetis,Free Wifi,8.8,Luar Biasa,54,1023076.0,35,532000.0,425,1,2021-08-12,Jogja
+"Djuragan Kamar TeduhSleman,",Sleman,Free Wifi,8.4,Luar Biasa,0,157894.0,5,150000.0,120,1,2021-08-12,Jogja
+"Bueno Colombo HotelSleman,",Sleman,Free Wifi,7.9,Sangat Baik,94,490947.0,5,396440.0,317,1,2021-08-12,Jogja
+"Sahid Raya Hotel & Convention YogyakartaSleman,",Sleman,Free Wifi,7.7,Sangat Baik,96,688713.0,5,556136.0,444,1,2021-08-12,Jogja
+"Grand Kangen Urip SumoharjoGondokusuman,",Gondokusuman,Free Wifi,8.1,Luar Biasa,127,683684.0,5,513105.0,410,1,2021-08-12,Jogja
+"Home Addicts YogyaWirobrajan,",Wirobrajan,Free Wifi,9.2,Istimewa,8,472631.0,5,246950.0,197,1,2021-08-12,Jogja
+"Hotel Indies Heritage PrawirotamanMergangsan,",Mergangsan,Free Wifi,8.4,Luar Biasa,38,453893.0,5,388079.0,310,1,2021-08-12,Jogja
+"Nusalink Near UGM SlemanSleman,",Sleman,Free Wifi,8.9,Luar Biasa,5,247368.0,5,117500.0,94,1,2021-08-12,Jogja
+"Ceria Boutique Hotel BabarsariSleman,",Sleman,Free Wifi,7.8,Sangat Baik,67,360000.0,5,222300.0,177,1,2021-08-12,Jogja
+Next Trip Homestay,Sleman,Free Wifi,8.4,Luar Biasa,0,5000000.0,5,4750000.0,3800,1,2021-08-12,Jogja
+"Asana Grove Hotel YogyakartaUmbulharjo,",Umbulharjo,Free Wifi,8.1,Luar Biasa,79,294736.0,5,252000.0,201,1,2021-08-12,Jogja
+"Hotel New Saphir YogyakartaGondokusuman,",Gondokusuman,Free Wifi,8.7,Luar Biasa,106,1000000.0,5,570000.0,456,1,2021-08-12,Jogja
+"Hotel Puspo Nugroho Malioboro YogyakartaDanurejan,",Danurejan,Free Wifi,9.2,Istimewa,102,259131.0,5,140320.0,112,1,2021-08-12,Jogja
+"Jowo Kluthuk HeritageSleman,",Sleman,No,9.2,Istimewa,18,210315.0,5,99900.0,79,1,2021-08-12,Jogja
+"Arah Living (FKA Lokal Hotel)Sleman,",Sleman,Free Wifi,10.0,Istimewa,2,619789.0,5,588800.0,471,1,2021-08-12,Jogja
+"@HOM Premiere Timoho YogyakartaUmbulharjo,",Umbulharjo,Free Wifi,9.2,Istimewa,125,518736.0,5,369600.0,295,1,2021-08-12,Jogja
+"Cantya HotelMergangsan,",Mergangsan,Free Wifi,7.9,Sangat Baik,20,326315.0,5,263500.0,210,1,2021-08-12,Jogja
+"Hotel OrlenGondokusuman,",Gondokusuman,Free Wifi,7.9,Sangat Baik,158,463157.0,5,220000.0,176,1,2021-08-12,Jogja
+"POP! Hotel Sangaji YogyakartaJetis,",Jetis,Free Wifi,8.7,Luar Biasa,491,500000.0,31,346000.0,276,1,2021-08-12,Jogja
+"Tasneem Convention Hotel YogyakartaMergangsan,",Mergangsan,Free Wifi,8.4,Luar Biasa,6,526315.0,5,250000.0,200,1,2021-08-12,Jogja
+"Kombokarno Hotel MalioboroGedongtengen,",Gedongtengen,Free Wifi,8.8,Luar Biasa,4,245473.0,5,186560.0,149,1,2021-08-12,Jogja
+"Griya Desa Hotel & PoolSleman,",Sleman,Free Wifi,7.6,Sangat Baik,34,259368.0,5,177408.0,141,1,2021-08-12,Jogja
+"Jowo Kluthuk Taman MelatiSleman,",Sleman,No,7.5,Sangat Baik,6,418357.0,5,198720.0,158,1,2021-08-12,Jogja
+"Cakra Kusuma HotelSleman,",Sleman,Free Wifi,7.8,Sangat Baik,161,406264.0,5,328058.0,262,1,2021-08-12,Jogja
+"The Grand Palace Hotel YogyakartaMantrijeron,",Mantrijeron,Free Wifi,7.9,Sangat Baik,65,561076.0,35,291760.0,233,1,2021-08-12,Jogja
+"Blue Safir Hotel YogyakartaGedongtengen,",Gedongtengen,Free Wifi,6.4,Luar Biasa,6,378947.0,5,288000.0,230,1,2021-08-12,Jogja
+"Cordela Kartika Dewi Malioboro YogyakartaNgampilan,",Ngampilan,Free Wifi,9.2,Istimewa,256,368421.0,5,350000.0,280,1,2021-08-12,Jogja
+"Grand Malioboro YogyakartaGedongtengen,",Gedongtengen,Free Wifi,8.2,Luar Biasa,91,1389473.0,5,528000.0,422,1,2021-08-12,Jogja
+Tasik,Mantrijeron,Free Wifi,7.5,Sangat Baik,29,208631.0,5,100091.0,80,1,2021-08-12,Jogja
+Hotel Olympic,Mergangsan,Free Wifi,7.6,Sangat Baik,1,123089.0,5,99395.0,79,1,2021-08-12,Jogja
+"Sunrise Hotel YogyakartaSleman,",Sleman,Free Wifi,8.3,Luar Biasa,28,627157.0,5,595800.0,476,1,2021-08-12,Jogja
+"Votel Viure HotelSleman,",Sleman,Free Wifi,8.0,Sangat Baik,108,213157.0,5,162000.0,129,1,2021-08-12,Jogja
+"Hotel Bukit Uhud YogyakartaUmbulharjo,",Umbulharjo,Free Wifi,9.4,Istimewa,8,323065.0,5,296912.0,237,1,2021-08-12,Jogja
+"Delta HomestayMergangsan,",Mergangsan,Free Wifi,8.4,Luar Biasa,0,842105.0,5,240000.0,192,1,2021-08-12,Jogja
+"Hotel Cakra KembangSleman,",Sleman,Free Wifi,8.1,Luar Biasa,62,365950.0,16,262511.0,210,1,2021-08-12,Jogja
+"Omah AmbarukmoSleman,",Sleman,Free Wifi,8.1,Luar Biasa,46,200996.0,5,105021.0,84,1,2021-08-12,Jogja
+"Hotel Mataram MalioboroGedongtengen,",Gedongtengen,Free Wifi,8.2,Luar Biasa,32,378947.0,5,324000.0,259,1,2021-08-12,Jogja
+"FIVE TWO HomestaySleman,",Sleman,Free Wifi,8.4,Luar Biasa,0,220440.0,5,198947.0,159,1,2021-08-12,Jogja
+"Wayang BnBTegalrejo,",Tegalrejo,Free Wifi,9.5,Istimewa,6,249230.0,35,137700.0,110,1,2021-08-12,Jogja
+"Gadjah Mada University Club Hotel & ConventionSleman,",Sleman,Free Wifi,8.7,Luar Biasa,39,426315.0,5,283500.0,226,1,2021-08-12,Jogja
+"Griya Sentana Malioboro HotelJetis,",Jetis,Free Wifi,8.8,Luar Biasa,57,463846.0,35,301500.0,241,1,2021-08-12,Jogja
+"Hotel Grand Rosela YogyakartaMergangsan,",Mergangsan,Free Wifi,8.0,Sangat Baik,27,1184210.0,5,337500.0,270,1,2021-08-12,Jogja
+"Grand Keisha YogyakartaSleman,",Sleman,Free Wifi,9.2,Istimewa,107,1200000.0,17,900000.0,720,1,2021-08-12,Jogja
+"Indonesia Hotel MalioboroGedongtengen,",Gedongtengen,Free Wifi,5.2,Luar Biasa,5,210526.0,5,180000.0,144,1,2021-08-12,Jogja
+"Novatel Malioboro YogyakartaNgampilan,",Ngampilan,Free Wifi,7.6,Sangat Baik,42,284210.0,5,135000.0,108,1,2021-08-12,Jogja
+"De Gadri Ndalem YogyakartaBantul,",Bantul,Free Wifi,9.6,Istimewa,1,193684.0,5,156400.0,125,1,2021-08-12,Jogja
+"Anjuma BackpackerDanurejan,",Danurejan,Free Wifi,8.4,Luar Biasa,0,368947.0,5,133190.0,106,1,2021-08-12,Jogja
+"New Hotel LilikGedongtengen,",Gedongtengen,Free Wifi,7.4,Sangat Baik,37,473684.0,5,382500.0,306,1,2021-08-12,Jogja
+Unknown,Tegalrejo,Free Wifi,8.4,Luar Biasa,0,750867.0,5,606325.0,485,1,2021-08-12,Jogja
+"Atrium Premiere Hotel Yogyakarta AmbarukmoSleman,",Sleman,Free Wifi,8.5,Luar Biasa,216,481052.0,5,457000.0,365,1,2021-08-12,Jogja
+"D'Paragon Pelem KecutSleman,",Sleman,Free Wifi,8.7,Luar Biasa,4,194736.0,5,185000.0,148,1,2021-08-12,Jogja
+SigNature,Sleman,Free Wifi,8.1,Luar Biasa,283,246152.0,35,159999.0,127,1,2021-08-12,Jogja
+"The Manohara Hotel YogyakartaSleman,",Sleman,Free Wifi,9.3,Istimewa,10,1250526.0,5,1188000.0,950,1,2021-08-12,Jogja
+"Sunrise Hotel JomborSleman,",Sleman,Free Wifi,7.6,Sangat Baik,8,630526.0,5,599000.0,479,1,2021-08-12,Jogja
+"OYO 2008 Sellinas Family Residence SyariahKaliurang,",Kaliurang,Free Wifi,9.2,Istimewa,2,176824.0,5,131027.0,104,1,2021-08-12,Jogja
+The Amartya,Sleman,Free Wifi,8.8,Luar Biasa,6,1460312.0,5,860124.0,688,1,2021-08-12,Jogja
+"Khas Malioboro (formerly Pesonna Hotel Malioboro)Gondomanan,",Gondomanan,Free Wifi,9.1,Istimewa,75,868421.0,5,825000.0,660,1,2021-08-12,Jogja
+"Akur Hotel Malioboro RedPartnerDanurejan,",Danurejan,Free Wifi,7.0,Baik,21,330231.0,5,276074.0,220,1,2021-08-12,Jogja
+"RedDoorz Syariah near Taman Pelangi MonjaliSleman,",Sleman,Free Wifi,9.3,Istimewa,20,265735.0,5,138847.0,111,1,2021-08-12,Jogja
+"RedDoorz Plus near Lempuyangan Station 4Gondokusuman,",Gondokusuman,Free Wifi,9.3,Istimewa,3,292415.0,5,152787.0,122,1,2021-08-12,Jogja
+"OYO 550 Kebon Krapyak CottageSleman,",Sleman,Free Wifi,8.7,Luar Biasa,6,161587.0,5,119736.0,95,1,2021-08-12,Jogja
+"Cavinton Hotel Yogyakarta by Tritama HospitalityNgampilan,",Ngampilan,Free Wifi,8.7,Luar Biasa,46,653594.0,5,372549.0,298,1,2021-08-12,Jogja
+"OYO 1309 Hotel ShafiraGedongtengen,",Gedongtengen,Free Wifi,8.2,Luar Biasa,22,239973.0,5,227975.0,182,1,2021-08-12,Jogja
+"Beta House at Apartemen Malioboro CitySleman,",Sleman,No,8.4,Luar Biasa,0,273684.0,5,260000.0,208,1,2021-08-12,Jogja
+"RedDoorz @ Plemburan Jakal 2Sleman,",Sleman,Free Wifi,9.6,Istimewa,3,186789.0,5,156156.0,124,1,2021-08-12,Jogja
+"Pose In Hotel YogyakartaMantrijeron,",Mantrijeron,Free Wifi,7.2,Sangat Baik,130,631578.0,5,390000.0,312,1,2021-08-12,Jogja
+"Sans Hotel Nagari MalioboroNgampilan,",Ngampilan,Free Wifi,8.4,Luar Biasa,0,421263.0,5,360180.0,288,1,2021-08-12,Jogja
+"KoolKost Male Syariah near Pascasarjana UGMCaturtunggal,",Caturtunggal,Free Wifi,10.0,Istimewa,3,284921.0,5,148871.0,119,1,2021-08-12,Jogja
+"Uniq HotelTegalrejo,",Tegalrejo,Free Wifi,8.6,Luar Biasa,69,692307.0,35,292500.0,234,1,2021-08-12,Jogja
+"LPP Garden HotelSleman,",Sleman,Free Wifi,8.4,Luar Biasa,38,307045.0,5,291693.0,233,1,2021-08-12,Jogja
+"RedDoorz Plus @ Rumah KandjaniSleman,",Sleman,Free Wifi,9.6,Istimewa,20,243157.0,5,203280.0,162,1,2021-08-12,Jogja
+"D'Paragon Seturan 4Sleman,",Sleman,No,9.6,Istimewa,1,194736.0,5,185000.0,148,1,2021-08-12,Jogja
+"Grand Serela Yogyakarta by KAGUM HotelsSleman,",Sleman,Free Wifi,8.7,Luar Biasa,71,715789.0,5,680000.0,544,1,2021-08-12,Jogja
+"RedDoorz near Sleman City Hall 2Sleman,",Sleman,Free Wifi,8.8,Luar Biasa,1,259473.0,5,135575.0,108,1,2021-08-12,Jogja
+"D'Kaliurang Resort & ConventionSleman,",Sleman,Free Wifi,8.7,Luar Biasa,6,950000.0,32,650000.0,520,1,2021-08-12,Jogja
+Alam,Sleman,Free Wifi,7.8,Sangat Baik,25,311211.0,5,162608.0,130,1,2021-08-12,Jogja
+"Bobobox Pods MalioboroGedongtengen,",Gedongtengen,Free Wifi,10.0,Istimewa,2,274631.0,5,260900.0,208,1,2021-08-12,Jogja
+"RedDoorz @ Mantrijeron 2Mantrijeron,",Mantrijeron,Free Wifi,8.6,Luar Biasa,19,320201.0,5,167305.0,133,1,2021-08-12,Jogja
+"RedDoorz near Sindu Kusuma Edupark 3Sleman,",Sleman,Free Wifi,10.0,Istimewa,1,237368.0,5,191675.0,153,1,2021-08-12,Jogja
+"RedDoorz near Hartono Mall 3Sleman,",Sleman,Free Wifi,8.7,Luar Biasa,8,280000.0,5,146300.0,117,1,2021-08-12,Jogja
+"Cordia Hotel YogyakartaKulon Progo,",Kulon Progo,Free Wifi,6.3,Luar Biasa,6,458526.0,5,435600.0,348,1,2021-08-12,Jogja
+RedDoorz near,Sleman,Free Wifi,6.7,Baik,9,239473.0,5,125125.0,100,1,2021-08-12,Jogja
+"Prime Cailendra Hotel RedPartnerMergangsan,",Mergangsan,Free Wifi,7.3,Sangat Baik,15,300000.0,5,156750.0,125,1,2021-08-12,Jogja
+"Kangen Boutique HotelSleman,",Sleman,Free Wifi,7.7,Sangat Baik,253,312789.0,5,297150.0,237,1,2021-08-12,Jogja
+"Airlangga Hotel & RestaurantMergangsan,",Mergangsan,Free Wifi,8.2,Luar Biasa,120,264315.0,5,200880.0,160,1,2021-08-12,Jogja
+"RedDoorz Syariah @ LempuyanganLempuyangan,",Lempuyangan,Free Wifi,7.0,Baik,2,222778.0,5,116402.0,93,1,2021-08-12,Jogja
+"OYO 3787 Hotel PoncowinatanJetis,",Jetis,Free Wifi,7.9,Sangat Baik,96,222632.0,5,164971.0,131,1,2021-08-12,Jogja
+"RedDoorz near AMIKOM YogyakartaSleman,",Sleman,Free Wifi,9.6,Istimewa,10,437684.0,5,228690.0,182,1,2021-08-12,Jogja
+"RedDoorz Plus near Stadion Mandala KridaUmbulharjo,",Umbulharjo,Free Wifi,8.8,Luar Biasa,77,296049.0,5,154686.0,123,1,2021-08-12,Jogja
+"RedDoorz near Malioboro Mall 2Danurejan,",Danurejan,Free Wifi,9.0,Luar Biasa,9,313694.0,5,262249.0,209,1,2021-08-12,Jogja
+"Ngampilan ResidenceGedongtengen,",Gedongtengen,Free Wifi,9.4,Istimewa,2,994736.0,5,945000.0,756,1,2021-08-12,Jogja
+"RedDoorz Syariah @ Babadan Baru JakalSleman,",Sleman,Free Wifi,8.6,Luar Biasa,7,221684.0,5,115830.0,92,1,2021-08-12,Jogja
+"Nirvana Inn Jembatan MerahSleman,",Sleman,Free Wifi,7.7,Sangat Baik,20,180000.0,5,171000.0,136,1,2021-08-12,Jogja
+"RedDoorz near Pojok Beteng YogyakartaMergangsan,",Mergangsan,Free Wifi,9.5,Istimewa,12,273410.0,5,142857.0,114,1,2021-08-12,Jogja
+"Griya Mataram Kotagede RedPartnerBantul,",Bantul,Free Wifi,10.0,Istimewa,2,230484.0,5,120428.0,96,1,2021-08-12,Jogja
+"OYO 3726 Tembok Batu ResidenceSleman,",Sleman,Free Wifi,8.4,Luar Biasa,23,258202.0,5,191328.0,153,1,2021-08-12,Jogja
+"OYO 2268 Tim-tim HomestayMlati,",Mlati,Free Wifi,8.2,Luar Biasa,2,106909.0,5,79220.0,63,1,2021-08-12,Jogja
+"Cempaka HotelMergangsan,",Mergangsan,Free Wifi,8.8,Luar Biasa,1,214175.0,5,100716.0,80,1,2021-08-12,Jogja
+"RedDoorz Plus @ Jalan Damai 2Sleman,",Sleman,Free Wifi,8.7,Luar Biasa,5,236842.0,5,202500.0,162,1,2021-08-12,Jogja
+"RedDoorz near Kampus 3 UTY YogyakartaUmbulharjo,",Umbulharjo,Free Wifi,8.4,Luar Biasa,1,260000.0,5,135850.0,108,1,2021-08-12,Jogja
+"D'Paragon Seturan 3Sleman,",Sleman,No,8.4,Luar Biasa,0,189473.0,5,180000.0,144,1,2021-08-12,Jogja
+"Liberta MalioboroGedongtengen,",Gedongtengen,Free Wifi,9.6,Istimewa,1,509263.0,5,387040.0,309,1,2021-08-12,Jogja
+"RedDoorz Plus near Alun Alun Selatan 2Mantrijeron,",Mantrijeron,Free Wifi,8.9,Luar Biasa,19,276315.0,5,144375.0,115,1,2021-08-12,Jogja
+"OYO 194 Hotel Sapta Gria Near RS BethesdaGondokusuman,",Gondokusuman,Free Wifi,9.8,Istimewa,4,229372.0,5,169965.0,135,1,2021-08-12,Jogja
+"D'Paragon PringwulungSleman,",Sleman,No,8.0,Sangat Baik,1,157473.0,5,149600.0,119,1,2021-08-12,Jogja
+"RedDoorz Plus @ Terban ResidenceGondokusuman,",Gondokusuman,Free Wifi,9.4,Istimewa,6,320968.0,5,268330.0,214,1,2021-08-12,Jogja
+"Hotel Mataram 2 MalioboroGedongtengen,",Gedongtengen,Free Wifi,7.5,Sangat Baik,50,429230.0,35,279000.0,223,1,2021-08-12,Jogja
+"Hotel Bladok & Restaurant MalioboroGedongtengen,",Gedongtengen,Free Wifi,9.0,Luar Biasa,66,255000.0,22,200000.0,160,1,2021-08-12,Jogja
+"OYO 586 Hotel Wijaya Near RSUD PrambananSleman,",Sleman,Free Wifi,7.9,Sangat Baik,8,165416.0,5,122574.0,98,1,2021-08-12,Jogja
+"OYO 1626 Alena Residence Near RS Ludira Husada TamaGedongtengen,",Gedongtengen,Free Wifi,9.3,Istimewa,6,339588.0,5,251635.0,201,1,2021-08-12,Jogja
+"Puri Sidikan Inn RedPartnerUmbulharjo,",Umbulharjo,Free Wifi,8.4,Luar Biasa,0,337414.0,5,176299.0,141,1,2021-08-12,Jogja
+"RedDoorz near Jombor Bus StationSleman,",Sleman,Free Wifi,7.6,Sangat Baik,1,297990.0,5,155700.0,124,1,2021-08-12,Jogja
+"OYO 611 The Edwin SyariahBantul,",Bantul,Free Wifi,9.7,Istimewa,5,235205.0,5,223445.0,178,1,2021-08-12,Jogja
+"RedDoorz near XT Square 2Umbulharjo,",Umbulharjo,Free Wifi,6.6,Baik,6,240158.0,5,125483.0,100,1,2021-08-12,Jogja
+"Ros In HotelBantul,",Bantul,Free Wifi,8.0,Sangat Baik,43,411284.0,5,351648.0,281,1,2021-08-12,Jogja
+"RedDoorz Plus @ Demangan GejayanSleman,",Sleman,Free Wifi,9.9,Istimewa,5,223086.0,5,186500.0,149,1,2021-08-12,Jogja
+"RedDoorz @ Wisma Putra Jaya KaliurangSleman,",Sleman,Free Wifi,7.1,Sangat Baik,7,378947.0,5,198000.0,158,1,2021-08-12,Jogja
+"Paku Mas HotelSleman,",Sleman,Free Wifi,9.0,Luar Biasa,73,387947.0,5,368550.0,294,1,2021-08-12,Jogja
+"Hotel Safara YogyakartaUmbulharjo,",Umbulharjo,Free Wifi,8.0,Sangat Baik,3,260160.0,5,148291.0,118,1,2021-08-12,Jogja
+"RedDoorz near Lippo Mall YogyakartaGondokusuman,",Gondokusuman,Free Wifi,9.6,Istimewa,1,258631.0,5,135135.0,108,1,2021-08-12,Jogja
+"RedDoorz @ PrawirotamanMergangsan,",Mergangsan,Free Wifi,9.0,Luar Biasa,6,776729.0,5,405841.0,324,1,2021-08-12,Jogja
+Alimar Hotel,Klojen,Free Wifi,8.6,Luar Biasa,121,453846.0,35,236000.0,188,1,2021-08-12,Malang
+"Regents ParkKlojen,",Klojen,Free Wifi,8.9,Luar Biasa,122,688000.0,24,319883.0,255,1,2021-08-12,Malang
+"Senyum World HotelBatu,",Batu,Free Wifi,9.1,Istimewa,232,661052.0,5,628000.0,502,1,2021-08-12,Malang
+Shanaya Resort,Karangploso,No,8.6,Luar Biasa,13,526315.0,5,400000.0,320,1,2021-08-12,Malang
+"Kontena HotelBatu,",Batu,Free Wifi,8.9,Luar Biasa,45,552223.0,5,393459.0,314,1,2021-08-12,Malang
+"Rayz UMM HotelDau,",Dau,Free Wifi,9.2,Istimewa,42,1078210.0,5,717010.0,573,1,2021-08-12,Malang
+"The Batu Hotel & VillasBatu,",Batu,Free Wifi,8.5,Luar Biasa,112,819736.0,5,623000.0,498,1,2021-08-12,Malang
+Everyday Smart Hotel,Lowokwaru,Free Wifi,8.1,Luar Biasa,556,590736.0,5,269376.0,215,1,2021-08-12,Malang
+"Ascent Premiere Hotel and ConventionKedungkandang,",Kedungkandang,Free Wifi,8.1,Luar Biasa,198,905846.0,35,382720.0,306,1,2021-08-12,Malang
+MaxOne Ascent Hotel,Klojen,Free Wifi,8.4,Luar Biasa,302,1384615.0,35,585000.0,468,1,2021-08-12,Malang
+eL Hotel Grande,Karangploso,Free Wifi,8.2,Luar Biasa,110,513501.0,5,336600.0,269,1,2021-08-12,Malang
+"Urbanview Hotel Omah Anin BatuBatu,",Batu,Free Wifi,9.4,Istimewa,47,358947.0,5,313720.0,250,1,2021-08-12,Malang
+The Himana,Klojen,Free Wifi,8.6,Luar Biasa,144,473684.0,5,270000.0,216,1,2021-08-12,Malang
+"Hotel Batu PermaiBatu,",Batu,Free Wifi,8.8,Luar Biasa,121,447368.0,5,340000.0,272,1,2021-08-12,Malang
+"RedDoorz near Jawa Timur Park 2Batu,",Batu,Free Wifi,9.0,Luar Biasa,28,263422.0,5,137638.0,110,1,2021-08-12,Malang
+"D'Paragon Bukit DiengSukun,",Sukun,No,9.6,Istimewa,2,180000.0,5,171000.0,136,1,2021-08-12,Malang
+"eL Hotel Kartika Wijaya BatuBatu,",Batu,Free Wifi,8.3,Luar Biasa,98,1700000.0,16,800800.0,640,1,2021-08-12,Malang
+"Kapal Garden Hotel by UMMDau,",Dau,Free Wifi,9.4,Istimewa,60,558461.0,35,235950.0,188,1,2021-08-12,Malang
+Hotel Tidar Manage by Ascent,Dau,Free Wifi,8.3,Luar Biasa,39,523076.0,35,221000.0,176,1,2021-08-12,Malang
+Front One Boutique Baluran,Klojen,Free Wifi,8.8,Luar Biasa,23,736842.0,5,308000.0,246,1,2021-08-12,Malang
+Ubud Hotel & Cottages,Sukun,Free Wifi,8.8,Luar Biasa,96,454545.0,23,349500.0,279,1,2021-08-12,Malang
+"Onyo Sigura-gura InnSukun,",Sukun,Free Wifi,7.9,Sangat Baik,17,80000.0,35,52000.0,41,1,2021-08-12,Malang
+Hotel Santosa,Klojen,Free Wifi,7.6,Sangat Baik,84,198000.0,25,118800.0,95,1,2021-08-12,Malang
+Three Eight Front One Boutique Batu,Batu,Free Wifi,9.2,Istimewa,78,350000.0,19,228000.0,182,1,2021-08-12,Malang
+"Riverstone Hotel & CottageBatu,",Batu,Free Wifi,9.2,Istimewa,5,347368.0,5,247500.0,198,1,2021-08-12,Malang
+Front One Budget,Lowokwaru,Free Wifi,9.1,Istimewa,11,751578.0,5,428400.0,342,1,2021-08-12,Malang
+"Villa Klub Bunga 4 Bedrooms near Jatim ParkBatu,",Batu,Free Wifi,9.6,Istimewa,1,1983789.0,5,1507680.0,1206,1,2021-08-12,Malang
+"Royal Orchids Garden HotelBatu,",Batu,Free Wifi,8.1,Luar Biasa,88,1194947.0,5,533544.0,426,1,2021-08-12,Malang
+"Great Star Premium HomestayBlimbing,",Blimbing,Free Wifi,9.1,Istimewa,6,459058.0,35,193952.0,155,1,2021-08-12,Malang
+Votel Nirmala Hotel,Kedungkandang,Free Wifi,6.2,Luar Biasa,6,378947.0,5,198000.0,158,1,2021-08-12,Malang
+"Shinta Guest HouseKlojen,",Klojen,Free Wifi,8.6,Luar Biasa,82,170526.0,5,129600.0,103,1,2021-08-12,Malang
+"Grand Dream Cita Mandiri SyariahBatu,",Batu,Free Wifi,9.4,Istimewa,8,401538.0,35,208800.0,167,1,2021-08-12,Malang
+"Linn's Guest HouseLowokwaru,",Lowokwaru,Free Wifi,9.0,Luar Biasa,37,198289.0,35,128888.0,103,1,2021-08-12,Malang
+"Giri Palma Hotel by eCommerceLokaDau,",Dau,Free Wifi,9.2,Istimewa,4,700105.0,5,266040.0,212,1,2021-08-12,Malang
+"Bima Guest HouseKedungkandang,",Kedungkandang,Free Wifi,8.4,Luar Biasa,3,290000.0,5,151525.0,121,1,2021-08-12,Malang
+"D'Fresh Hotel & RestoLowokwaru,",Lowokwaru,Free Wifi,7.9,Sangat Baik,56,500000.0,14,258000.0,206,1,2021-08-12,Malang
+"Comfy Homestay SyariahDau,",Dau,Free Wifi,9.1,Istimewa,4,83363.0,5,63356.0,50,1,2021-08-12,Malang
+"De Lobby Suite HotelBatu,",Batu,Free Wifi,9.4,Istimewa,68,650000.0,35,425000.0,340,1,2021-08-12,Malang
+"Homey Homestay SyariahLowokwaru,",Lowokwaru,Free Wifi,9.3,Istimewa,18,121838.0,35,67316.0,53,1,2021-08-12,Malang
+"Joyo Homestay SyariahLowokwaru,",Lowokwaru,Free Wifi,9.2,Istimewa,15,98520.0,5,79555.0,63,1,2021-08-12,Malang
+"OYO Flagship 90723 Berlima Guest HousePakis,",Pakis,Free Wifi,8.4,Luar Biasa,0,202387.0,5,149969.0,119,1,2021-08-12,Malang
+"Villa 2 Bedrooms Near Museum Angkut No. 7Batu,",Batu,Free Wifi,8.4,Luar Biasa,0,778105.0,5,591360.0,473,1,2021-08-12,Malang
+"Villa 2 Bedrooms Near Jatim Park 2 No. C5Batu,",Batu,No,7.6,Sangat Baik,2,778105.0,5,480480.0,384,1,2021-08-12,Malang
+"Radz Homestay SyariahKlojen,",Klojen,Free Wifi,8.4,Luar Biasa,6,106097.0,5,85674.0,68,1,2021-08-12,Malang
+"Sukun Homestay SyariahSukun,",Sukun,Free Wifi,7.5,Sangat Baik,13,109653.0,35,57020.0,45,1,2021-08-12,Malang
+"Griya Joyo 1 SyariahLowokwaru,",Lowokwaru,Free Wifi,9.0,Luar Biasa,9,98520.0,5,79555.0,63,1,2021-08-12,Malang
+"Darmo HomestayBatu,",Batu,Free Wifi,9.0,Luar Biasa,150,338461.0,35,132000.0,105,1,2021-08-12,Malang
+"RedDoorz Syariah near Batu Night Spectacular 2Batu,",Batu,Free Wifi,8.4,Luar Biasa,0,179473.0,5,153450.0,122,1,2021-08-12,Malang
+"Khalila Homestay SyariahBatu,",Batu,Free Wifi,9.8,Istimewa,5,113676.0,5,86394.0,69,1,2021-08-12,Malang
+Hotel Tosari,Klojen,Free Wifi,7.1,Sangat Baik,100,170500.0,27,99000.0,79,1,2021-08-12,Malang
+"Maharaja Homestay SyariahLowokwaru,",Lowokwaru,Free Wifi,9.4,Istimewa,11,121838.0,35,63356.0,50,1,2021-08-12,Malang
+"Griya Joyo 2 SyariahLowokwaru,",Lowokwaru,Free Wifi,9.8,Istimewa,12,121254.0,5,97913.0,78,1,2021-08-12,Malang
+"OYO 90151 Guest House 180Batu,",Batu,Free Wifi,8.4,Luar Biasa,0,249237.0,5,184685.0,147,1,2021-08-12,Malang
+"OYO 90217 Cmb 37 Guest HouseMojolangu,",Mojolangu,Free Wifi,8.4,Luar Biasa,0,314826.0,5,233286.0,186,1,2021-08-12,Malang
+Villa Kebon Jeruk,Dau,Free Wifi,8.4,Luar Biasa,0,1176631.0,5,447120.0,357,1,2021-08-12,Malang
+"Villa Mutiara PandermanBatu,",Batu,No,8.4,Luar Biasa,0,1353846.0,35,572000.0,457,1,2021-08-12,Malang
+Hotel Tugu,Klojen,Free Wifi,9.8,Istimewa,6,3320777.0,5,1261895.0,1009,1,2021-08-12,Malang
+RedDoorz near Taman Krida Budaya,Lowokwaru,Free Wifi,9.4,Istimewa,21,243421.0,5,208125.0,166,1,2021-08-12,Malang
+"Villa 2 Bedrooms Near Museum Angkut No. 5Batu,",Batu,Free Wifi,8.4,Luar Biasa,0,795789.0,5,604800.0,483,1,2021-08-12,Malang
+"Villa 2 Bedrooms Near Museum Angkut No. 10Batu,",Batu,Free Wifi,8.4,Luar Biasa,0,795789.0,5,491400.0,393,1,2021-08-12,Malang
+Dewarna Hotel Zainul Arifin,Klojen,Free Wifi,7.6,Sangat Baik,24,224736.0,5,213500.0,170,1,2021-08-12,Malang
+"RedDoorz Plus @ TlogomasLowokwaru,",Lowokwaru,Free Wifi,7.3,Sangat Baik,7,218947.0,5,176800.0,141,1,2021-08-12,Malang
+"D'Paragon SonggolangitLowokwaru,",Lowokwaru,No,8.4,Luar Biasa,3,172421.0,5,163800.0,131,1,2021-08-12,Malang
+RedDoorz Syariah near Universitas Negeri,Lowokwaru,Free Wifi,9.1,Istimewa,15,236842.0,5,209250.0,167,1,2021-08-12,Malang
+RedDoorz Syariah near RRI,Lowokwaru,Free Wifi,9.9,Istimewa,7,297001.0,5,155183.0,124,1,2021-08-12,Malang
+RedDoorz Plus near,Klojen,Free Wifi,8.6,Luar Biasa,13,184210.0,5,157500.0,126,1,2021-08-12,Malang
+"RedDoorz near Jawa Timur Park 3Batu,",Batu,Free Wifi,9.3,Istimewa,12,251263.0,5,131285.0,105,1,2021-08-12,Malang
+"RedDoorz Syariah @ Soekarno Hatta Indah 2Lowokwaru,",Lowokwaru,Free Wifi,8.1,Luar Biasa,3,197073.0,5,174115.0,139,1,2021-08-12,Malang
+"RedDoorz Plus @ Panorama Villa BatuBatu,",Batu,Free Wifi,8.1,Luar Biasa,12,262895.0,5,137363.0,109,1,2021-08-12,Malang
+"Adisa Homestay RedPartnerKlojen,",Klojen,Free Wifi,8.4,Luar Biasa,0,299684.0,5,156585.0,125,1,2021-08-12,Malang
+"Damar Boutique HotelLowokwaru,",Lowokwaru,Free Wifi,9.3,Istimewa,8,400000.0,31,275000.0,220,1,2021-08-12,Malang
+RedDoorz Premium @ Jalan Cengkeh,Lowokwaru,Free Wifi,8.3,Luar Biasa,5,333469.0,5,294620.0,235,1,2021-08-12,Malang
+RedDoorz Plus @ Riverside,Blimbing,Free Wifi,9.6,Istimewa,7,528868.0,5,276334.0,221,1,2021-08-12,Malang
+"Tanto's House RedPartnerKedungkandang,",Kedungkandang,Free Wifi,8.8,Luar Biasa,3,266315.0,5,235290.0,188,1,2021-08-12,Malang
+"OYO 3350 Cozy ResidenceLowokwaru,",Lowokwaru,Free Wifi,7.6,Sangat Baik,2,161723.0,5,119837.0,95,1,2021-08-12,Malang
+"RedDoorz Plus near Brawijaya MuseumKlojen,",Klojen,Free Wifi,10.0,Istimewa,1,273684.0,5,241800.0,193,1,2021-08-12,Malang
+"RedDoorz @ Jalan KedawungLowokwaru,",Lowokwaru,Free Wifi,6.8,Baik,1,251447.0,5,131381.0,105,1,2021-08-12,Malang
+"RedDoorz near Dino ParkBatu,",Batu,Free Wifi,7.5,Sangat Baik,5,149863.0,5,132404.0,105,1,2021-08-12,Malang
+Swiss-Belinn,Klojen,Free Wifi,8.8,Luar Biasa,338,700000.0,32,474050.0,379,1,2021-08-12,Malang
+"RedDoorz near Taman Rekreasi SelectaBatu,",Batu,Free Wifi,7.4,Sangat Baik,36,233525.0,5,122017.0,97,1,2021-08-12,Malang
+"OYO 1108 Smart TlogomasLowokwaru,",Lowokwaru,Free Wifi,9.6,Istimewa,1,258606.0,5,191627.0,153,1,2021-08-12,Malang
+"RedDoorz near Museum Angkut Batu 2Batu,",Batu,Free Wifi,9.2,Istimewa,12,206053.0,5,107663.0,86,1,2021-08-12,Malang
+"Briggs Inn BatuBatu,",Batu,Free Wifi,9.2,Istimewa,4,369473.0,5,351000.0,280,1,2021-08-12,Malang
+"Omahku Guest House RedPartnerBatu,",Batu,Free Wifi,8.0,Sangat Baik,1,320968.0,5,167706.0,134,1,2021-08-12,Malang
+"Wisma Wisata WiratamaBatu,",Batu,Free Wifi,9.4,Istimewa,3,335263.0,5,318500.0,254,1,2021-08-12,Malang
+"RedDoorz @ Bukit Dieng 2Sukun,",Sukun,Free Wifi,7.8,Sangat Baik,2,160926.0,5,137592.0,110,1,2021-08-12,Malang
+"RedDoorz Syariah near Balai Kota BatuBatu,",Batu,Free Wifi,9.0,Luar Biasa,2,150526.0,5,132990.0,106,1,2021-08-12,Malang
+favehotel,Lowokwaru,Free Wifi,9.4,Istimewa,63,498461.0,35,324000.0,259,1,2021-08-12,Malang
+"OYO 696 Hasanah Guest House Syariah De SaphireLowokwaru,",Lowokwaru,Free Wifi,9.0,Luar Biasa,2,283209.0,5,209858.0,167,1,2021-08-12,Malang
+"RedDoorz near Kampung Warna WarniKlojen,",Klojen,Free Wifi,8.8,Luar Biasa,9,175848.0,5,155362.0,124,1,2021-08-12,Malang
+"RedDoorz near Araya Family Club HousePakis,",Pakis,Free Wifi,6.4,Luar Biasa,6,284657.0,5,148734.0,118,1,2021-08-12,Malang
+"RedDoorz @ Jalan Danau LimbotoKedungkandang,",Kedungkandang,Free Wifi,10.0,Istimewa,1,262895.0,5,137363.0,109,1,2021-08-12,Malang
+RedDoorz near Universitas Widyagama,Lowokwaru,Free Wifi,8.4,Luar Biasa,0,205789.0,5,181815.0,145,1,2021-08-12,Malang
+"RedDoorz Syariah near Batu Night SpectacularBatu,",Batu,Free Wifi,9.4,Istimewa,10,220000.0,5,194370.0,155,1,2021-08-12,Malang
+"RedDoorz near Brawijaya UniversityKlojen,",Klojen,No,9.5,Istimewa,10,291316.0,5,152213.0,121,1,2021-08-12,Malang
+"Sweet Garden Boutique Guest HouseKlojen,",Klojen,Free Wifi,9.6,Istimewa,1,415384.0,35,270000.0,216,1,2021-08-12,Malang
+"OYO 2771 D'soettaLowokwaru,",Lowokwaru,Free Wifi,10.0,Istimewa,1,189937.0,5,140744.0,112,1,2021-08-12,Malang
+"Pertiwi Guest House RedPartnerBatu,",Batu,Free Wifi,8.8,Luar Biasa,2,583356.0,5,304804.0,243,1,2021-08-12,Malang
+RedDoorz Syariah @ Klojen,Klojen,Free Wifi,7.4,Sangat Baik,2,212922.0,5,111252.0,89,1,2021-08-12,Malang
+"Nine Suites Syariah RedPartnerLowokwaru,",Lowokwaru,Free Wifi,8.4,Luar Biasa,0,210736.0,5,180180.0,144,1,2021-08-12,Malang
+"OYO 1454 111 ResidenceBatu,",Batu,Free Wifi,9.2,Istimewa,1,239671.0,5,177597.0,142,1,2021-08-12,Malang
+"RedDoorz near Alun Alun BatuBatu,",Batu,Free Wifi,6.9,Baik,6,226304.0,5,118244.0,94,1,2021-08-12,Malang
+"OYO 1293 Dei Residence ArjosariBlimbing,",Blimbing,Free Wifi,6.0,Luar Biasa,6,204477.0,5,151518.0,121,1,2021-08-12,Malang
+"Hotel Batu WonderlandBatu,",Batu,No,9.1,Istimewa,32,532000.0,25,399000.0,79,1,2021-08-12,Malang
+"RedDoorz near Eco Green Park BatuBatu,",Batu,Free Wifi,4.4,Luar Biasa,4,197052.0,5,102960.0,82,1,2021-08-12,Malang
+"RedDoorz near Batik Tulis Celaket 2Klojen,",Klojen,Free Wifi,8.4,Luar Biasa,5,233525.0,5,122017.0,97,1,2021-08-12,Malang
+"Omah Londo Hotel & Luxury ResortBatu,",Batu,Free Wifi,7.6,Sangat Baik,2,473684.0,5,450000.0,360,1,2021-08-12,Malang
+"Dshario Hotel KepanjenKepanjen,",Kepanjen,Free Wifi,8.4,Luar Biasa,1,260000.0,5,247000.0,197,1,2021-08-12,Malang
+"SPOT ON 1711 Serayu Sumbersari ResidenceLowokwaru,",Lowokwaru,Free Wifi,8.4,Luar Biasa,0,102601.0,5,76027.0,60,1,2021-08-12,Malang
+RedDoorz Hostel near,Klojen,Free Wifi,9.0,Luar Biasa,3,548307.0,35,196020.0,156,1,2021-08-12,Malang
+"Griya Gribig Guest House RedPartnerKedungkandang,",Kedungkandang,Free Wifi,8.4,Luar Biasa,0,251789.0,5,222456.0,177,1,2021-08-12,Malang
+"OYO 1665 Aurila Homestay SyariahMerjosari,",Merjosari,Free Wifi,8.0,Sangat Baik,1,191828.0,5,142145.0,113,1,2021-08-12,Malang
+"RedDoorz Syariah @ Danau Kerinci SawojajarKedungkandang,",Kedungkandang,Free Wifi,9.0,Luar Biasa,2,252000.0,5,131670.0,105,1,2021-08-12,Malang
+OYO 1851 Hotel,Klojen,Free Wifi,5.8,Luar Biasa,5,161641.0,5,119776.0,95,1,2021-08-12,Malang
+"RedDoorz @ Danau BratanKedungkandang,",Kedungkandang,Free Wifi,6.8,Baik,2,203368.0,5,179676.0,143,1,2021-08-12,Malang
+"Cia HomestayLowokwaru,",Lowokwaru,Free Wifi,9.6,Istimewa,1,198947.0,5,189000.0,151,1,2021-08-12,Malang
+"Mitra Guest House Syariah RedPartnerBatu,",Batu,Free Wifi,10.0,Istimewa,9,299912.0,5,264973.0,211,1,2021-08-12,Malang
+Tini's Guest House,Klojen,Free Wifi,8.4,Luar Biasa,0,304210.0,5,158950.0,127,1,2021-08-12,Malang
+"Maniva Particael ResortBatu,",Batu,Free Wifi,9.0,Luar Biasa,2,787368.0,5,673200.0,538,1,2021-08-12,Malang
+"KoolKost Syariah @ Taman Nusa IndahLowokwaru,",Lowokwaru,Free Wifi,8.8,Luar Biasa,1,245921.0,5,128494.0,102,1,2021-08-12,Malang
+"RedDoorz Plus near Balai Kota Batu 2Batu,",Batu,Free Wifi,8.0,Sangat Baik,1,244084.0,5,127534.0,102,1,2021-08-12,Malang
+"OYO 3939 Omahkoe Guest House SyariahLowokwaru,",Lowokwaru,Free Wifi,10.0,Istimewa,1,250745.0,5,185802.0,148,1,2021-08-12,Malang
+"OYO 3720 Homestay Gayatri JantiSukun,",Sukun,Free Wifi,8.4,Luar Biasa,0,164530.0,5,121917.0,97,1,2021-08-12,Malang
+"OYO 354 32 Guest HouseBatu,",Batu,Free Wifi,7.9,Sangat Baik,11,229096.0,5,169761.0,135,1,2021-08-12,Malang
+"Alam Batu VillageBatu,",Batu,No,8.6,Luar Biasa,4,473846.0,35,308000.0,246,1,2021-08-12,Malang
+"RedDoorz @ Soekarno Hatta 2Lowokwaru,",Lowokwaru,Free Wifi,9.9,Istimewa,4,250800.0,5,131043.0,104,1,2021-08-12,Malang
+RedDoorz Plus near Politeknik Negeri,Lowokwaru,Free Wifi,9.8,Istimewa,12,255227.0,5,218219.0,174,1,2021-08-12,Malang
+"OYO 3298 Bromo Guest House FamilyKepanjen,",Kepanjen,Free Wifi,8.4,Luar Biasa,1,186382.0,5,138109.0,110,1,2021-08-12,Malang
+"SPOT ON 1870 Graha Batu Mulia SyariahBatu,",Batu,Free Wifi,8.4,Luar Biasa,0,120070.0,5,88972.0,71,1,2021-08-12,Malang
+"OYO 564 Bunga Matahari Guest House and HotelBatu,",Batu,Free Wifi,6.6,Baik,9,168275.0,5,124692.0,99,1,2021-08-12,Malang
+"Semeru HostelKlojen,",Klojen,Free Wifi,8.4,Luar Biasa,0,147368.0,5,140000.0,112,1,2021-08-12,Malang
+"OYO 1194 Villa Bukit Panderman ResidenceBatu,",Batu,Free Wifi,9.0,Luar Biasa,4,572310.0,5,424082.0,339,1,2021-08-12,Malang
+"Sofia Residence Syariah RedPartnerLowokwaru,",Lowokwaru,Free Wifi,9.6,Istimewa,9,216757.0,5,113256.0,90,1,2021-08-12,Malang
+"RedDoorz @ LawangLawang,",Lawang,Free Wifi,8.6,Luar Biasa,3,235625.0,5,123114.0,98,1,2021-08-12,Malang
+RedDoorz Syariah near Transmart MX,Lowokwaru,Free Wifi,9.1,Istimewa,6,274973.0,5,143674.0,114,1,2021-08-12,Malang
+"SPOT ON 2046 Villa HardiBatu,",Batu,Free Wifi,8.4,Luar Biasa,0,151923.0,5,112575.0,90,1,2021-08-12,Malang
+"OYO 528 Safa Guest HouseKedungkandang,",Kedungkandang,Free Wifi,5.9,Luar Biasa,5,193807.0,35,125975.0,100,1,2021-08-12,Malang
+"OYO 1468 SM HouseLowokwaru,",Lowokwaru,Free Wifi,8.4,Luar Biasa,0,300708.0,5,222825.0,178,1,2021-08-12,Malang
+RedDoorz near Sanan,Purwantoro,Free Wifi,10.0,Istimewa,2,265927.0,5,138947.0,111,1,2021-08-12,Malang
+"Villa Permata BatuBatu,",Batu,Free Wifi,8.0,Sangat Baik,1,497234.0,24,380000.0,304,1,2021-08-12,Malang
+RedDoorz near Velodrome,Kedungkandang,Free Wifi,8.4,Luar Biasa,0,203368.0,5,179676.0,143,1,2021-08-12,Malang
+"Hotel PajajaranBlimbing,",Blimbing,Free Wifi,7.4,Sangat Baik,7,328176.0,5,187061.0,149,1,2021-08-12,Malang
+"Gress VillaBatu,",Batu,Free Wifi,9.8,Istimewa,3,224324.0,5,213108.0,170,1,2021-08-12,Malang
+RedDoorz Syariah @ Jalan Buring,Klojen,Free Wifi,7.6,Sangat Baik,1,328158.0,5,171463.0,137,1,2021-08-12,Malang
+RedDoorz Syariah @ Tatasurya Guesthouse,Lowokwaru,Free Wifi,10.0,Istimewa,1,233148.0,5,121820.0,97,1,2021-08-12,Malang
+"RedDoorz near Paralayang BatuBatu,",Batu,Free Wifi,8.3,Luar Biasa,3,242526.0,5,126720.0,101,1,2021-08-12,Malang
+"Helena Guest HouseKlojen,",Klojen,Free Wifi,7.6,Sangat Baik,1,250000.0,5,237500.0,190,1,2021-08-12,Malang
+"Putri Utari Guest HouseDau,",Dau,Free Wifi,8.0,Sangat Baik,1,300000.0,33,200000.0,160,1,2021-08-12,Malang
+"RedDoorz Syariah near Gor Ken ArokKedungkandang,",Kedungkandang,Free Wifi,9.2,Istimewa,2,259473.0,5,135575.0,108,1,2021-08-12,Malang
+"RedDoorz near Stasiun LawangLawang,",Lawang,Free Wifi,5.2,Luar Biasa,5,244210.0,5,127600.0,102,1,2021-08-12,Malang
