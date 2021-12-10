@@ -1,4 +1,4 @@
-# Hotel-in-Indoensia
+# Hotel-in-Indonesia
 
 Dashboard for Hotel in Indonesia (Jakarta, Bali, Padang, Batam, Jogja, Bandung, Malang) 08-12-2021. This project is created to make a dashboard to look at the average price, rating, and discount based on hotels in some of the big cities in Indonesia.
 
