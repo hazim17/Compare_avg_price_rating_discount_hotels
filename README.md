@@ -7,3 +7,5 @@ The dataset for this project is created using Beautifulsoup from the website peg
 I do not use any data in this project for any commercial purposes, just for learning.
 
 Tableau Dashboard: https://public.tableau.com/app/profile/m.hazim.mu.aafii/viz/DashboardHotelIndonesia/Dashboard1?publish=yes
+
+![alt text](https://drive.google.com/file/d/1apFoT_5OMV2vlFiiPlPGjexoYrQC9UcW/view?usp=sharing)
