@@ -8,4 +8,6 @@ I do not use any data in this project for any commercial purposes, just for lear
 
 Tableau Dashboard: https://public.tableau.com/app/profile/m.hazim.mu.aafii/viz/DashboardHotelIndonesia/Dashboard1?publish=yes
 
-![alt text](https://drive.google.com/file/d/1apFoT_5OMV2vlFiiPlPGjexoYrQC9UcW/view?usp=sharing)
+![alt text](https://github.com/hazim17/Hotel-in-Indoensia/blob/main/data_file/Dashboard_hotel.png?raw=true)
+
+
