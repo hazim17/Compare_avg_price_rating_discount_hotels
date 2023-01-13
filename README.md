@@ -1,6 +1,6 @@
 # Comparison Hotel From Different Cities in Indonesia
 
-This project is created to make a dashboard to look at the average price, rating, and discount based on hotels in some of the big cities in Indonesia. The dataset for this project is created using Beautifulsoup from the website pegipegi.com, on the 08-12-2021. The cities are Jakarta, Bali, Padang, Batam, Jogja, Bandung, and Malang.
+This project is created to make a dashboard to look at the average price, rating, and discount based on hotels in some of the big cities in Indonesia. The dataset for this project is created using Beautifulsoup from the website pegipegi.com, on 08-12-2021. The cities are Jakarta, Bali, Padang, Batam, Jogja, Bandung, and Malang. From the dashboard, we can see which cities have a higher or lower average price, rating, and discount hotel for consideration, if they want to take a vacation or staycation.
 
 I do not use any data in this project for any commercial purposes, just for learning.
 
